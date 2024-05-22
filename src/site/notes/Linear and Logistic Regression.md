@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linear-and-logistic-regression/"}
+{"dg-publish":true,"permalink":"/linear-and-logistic-regression/","noteIcon":"","updated":"2024-05-22T13:57:06.932+05:30"}
 ---
 
 
