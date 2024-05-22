@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/bias-vs-variance/"}
+{"dg-publish":true,"permalink":"/bias-vs-variance/","noteIcon":"","updated":"2024-05-22T14:28:46.232+05:30"}
 ---
-
 
 
 ## Bias
@@ -35,7 +34,7 @@ Here's a visual analogy:
 Balancing bias and variance is key to building models that perform well on unseen data.
 
 ```mermaid
-graph TD;
+	graph TD;
     A[Model Performance];
     A --> B(High Bias, Low Variance);
     A --> C(Low Bias, High Variance);
