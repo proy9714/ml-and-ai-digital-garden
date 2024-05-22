@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vanishing-and-exploding-gradients/","noteIcon":"","updated":"2024-05-22T13:59:47.350+05:30"}
+{"dg-publish":true,"permalink":"/vanishing-and-exploding-gradients/","noteIcon":"2","updated":"2024-05-22T13:59:47.350+05:30"}
 ---
 
 
