@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bias-vs-variance/","noteIcon":"2","updated":"2024-05-22T15:41:54.951+05:30"}
+{"dg-publish":true,"permalink":"/bias-vs-variance/","noteIcon":"2","updated":"2024-05-22T15:53:49.488+05:30"}
 ---
 
 
@@ -34,26 +34,26 @@ Here's a visual analogy:
 Balancing bias and variance is key to building models that perform well on unseen data.
 
 ```mermaid
-	graph TD;
-    A[Model Performance]
-    A --> B(High Bias, Low Variance)
-    A --> C(Low Bias, High Variance)
-    A --> D(Low Bias, Low Variance)
-    A --> E(High Bias, High Variance)
+graph TD;
+    A[Model Performance];
+    A --> B(High Bias, Low Variance);
+    A --> C(Low Bias, High Variance);
+    A --> D(Low Bias, Low Variance);
+    A --> E(High Bias, High Variance);
 
-    B -->|Underfitting| F{{Example: Simple Model}}
-    C -->|Overfitting| G{{Example: Complex Model}}
-    D -->|Good Generalization| H{{Example: Balanced Model}}
-    E -->|Poor Model| I{{Example: Poor Model}}
+    B -->|Underfitting| F{{Example: Simple Model}};
+    C -->|Overfitting| G{{Example: Complex Model}};
+    D -->|Good Generalization| H{{Example: Balanced Model}};
+    E -->|Poor Model| I{{Example: Poor Model}};
 
-    style B fill:#f96,stroke:#333,stroke-width:2px
-    style C fill:#f66,stroke:#333,stroke-width:2px
-    style D fill:#6f6,stroke:#333,stroke-width:2px
-    style E fill:#f66,stroke:#333,stroke-width:2px
-    style F fill:#f96,stroke:#333,stroke-width:1px
-    style G fill:#f66,stroke:#333,stroke-width:1px
-    style H fill:#6f6,stroke:#333,stroke-width:1px
-    style I fill:#f66,stroke:#333,stroke-width:1px
+    style B fill:#f96,stroke:#333,stroke-width:2px;
+    style C fill:#f66,stroke:#333,stroke-width:2px;
+    style D fill:#6f6,stroke:#333,stroke-width:2px;
+    style E fill:#f66,stroke:#333,stroke-width:2px;
+    style F fill:#f96,stroke:#333,stroke-width:1px;
+    style G fill:#f66,stroke:#333,stroke-width:1px;
+    style H fill:#6f6,stroke:#333,stroke-width:1px;
+    style I fill:#f66,stroke:#333,stroke-width:1px;
 ```
 
 ---
