@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/py-torch/","noteIcon":"","updated":"2024-05-22T13:58:34.703+05:30"}
+{"dg-publish":true,"permalink":"/py-torch/","noteIcon":"2","updated":"2024-05-22T13:58:34.703+05:30"}
 ---
 
 
