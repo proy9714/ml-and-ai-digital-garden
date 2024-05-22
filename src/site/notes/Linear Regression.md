@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linear-regression/","noteIcon":"","updated":"2024-05-22T15:19:03.599+05:30"}
+{"dg-publish":true,"permalink":"/linear-regression/","tags":["regression","linear-regression"],"noteIcon":"","updated":"2024-05-22T15:24:53.196+05:30"}
 ---
 
 
