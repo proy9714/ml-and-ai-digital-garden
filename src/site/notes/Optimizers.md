@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/optimizers/","noteIcon":"","updated":"2024-05-22T13:58:19.461+05:30"}
+{"dg-publish":true,"permalink":"/optimizers/","noteIcon":"","updated":"2024-05-22T15:29:01.425+05:30"}
 ---
 
 
-1. [**What are Optimizers in deep learning? (Keras & TensorFlow)**](https://www.youtube.com/watch?v=JhQqquVeCE0&t=148s)
-   - **Resource Type:** 📺 Video
-   - **Comments:**
+## What Are Optimizers in Deep Learning? (Keras & TensorFlow)
 
-2. [**Optimizers**](https://www.youtube.com/watch?v=mdKjMPmcWjY)
-   - **Resource Type:** 📺 Video
-   - **Comments:** Much more detailed
+<iframe title="134 - What are Optimizers in deep learning? (Keras &amp; TensorFlow)" src="https://www.youtube.com/embed/JhQqquVeCE0?start=148&amp;feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+---
+
+## Much More Detailed
+
+<iframe title="Optimizers - EXPLAINED!" src="https://www.youtube.com/embed/mdKjMPmcWjY?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
