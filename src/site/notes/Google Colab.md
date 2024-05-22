@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/google-colab/","noteIcon":"2","updated":"2024-05-22T15:12:05.910+05:30"}
+{"dg-publish":true,"permalink":"/google-colab/","tags":["softwares","tools","toolkit"],"noteIcon":"2","updated":"2024-05-22T19:45:25.863+05:30"}
 ---
 
 
