@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree-based-algorithms/","noteIcon":"","updated":"2024-05-22T13:59:39.503+05:30"}
+{"dg-publish":true,"permalink":"/tree-based-algorithms/","noteIcon":"","updated":"2024-05-22T15:31:06.267+05:30"}
 ---
 
 
@@ -17,7 +17,11 @@ A decision tree is like a flowchart that helps you make decisions. Imagine you w
 In a decision tree, you start from the top (the root), ask questions (nodes), and follow the branches based on the answers until you reach a decision (leaf).
 
 ```mermaid
-graph TD; A[Is it raining?] -->|Yes| B[Stay inside]; A[Is it raining?] -->|No| C[Is it too hot?]; C[Is it too hot?] -->|Yes| D[Stay inside]; C[Is it too hot?] -->|No| E[Play outside];
+graph TD; 
+	A[Is it raining?] -->|Yes| B[Stay inside]
+	A[Is it raining?] -->|No| C[Is it too hot?]
+	C[Is it too hot?] -->|Yes| D[Stay inside]
+	C[Is it too hot?] -->|No| E[Play outside]
 ```
 
 ## Regression Trees
