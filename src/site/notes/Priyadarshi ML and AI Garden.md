@@ -35,10 +35,10 @@ Here's a list  of all the resources that the website has to offer :
 
 ## Recently Updated Notes
 
-- [[Bias vs Variance\|Bias vs Variance]]
-- [[Personal Projects\|Personal Projects]]
-- [[Tree Based Algorithms\|Tree Based Algorithms]]
-- [[Evaluating Machine Learning Models\|Evaluating Machine Learning Models]]
-- [[Optimizers\|Optimizers]]
+- [[Regularization\|Regularization]]
+- [[Segmentation\|Segmentation]]
+- [[Scikit-learn\|Scikit-learn]]
+- [[Resources\|Resources]]
+- [[Reinforcement Learning\|Reinforcement Learning]]
 
 { .block-language-dataview}
