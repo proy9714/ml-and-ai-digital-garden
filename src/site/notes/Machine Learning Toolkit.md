@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/machine-learning-toolkit/","noteIcon":"2","updated":"2024-05-22T19:10:19.935+05:30"}
+{"dg-publish":true,"permalink":"/machine-learning-toolkit/","tags":["tools","toolkit","softwares","frameworks"],"noteIcon":"2","updated":"2024-05-22T19:43:56.853+05:30"}
 ---
 
 
@@ -8,7 +8,7 @@
 </div>
 
 - [[Matplotlib\|Matplotlib]]
--  [[NumPy\|NumPy]]
--  [[Google Colab\|Google Colab]]
--  [[PyTorch\|PyTorch]]
+- [[NumPy\|NumPy]]
+- [[Google Colab\|Google Colab]]
+- [[PyTorch\|PyTorch]]
 - [[Tensorflow\|Tensorflow]]
