@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/support-vector-machine-svm/","noteIcon":"","updated":"2024-05-22T13:59:05.321+05:30"}
+{"dg-publish":true,"permalink":"/support-vector-machine-svm/","noteIcon":"2","updated":"2024-05-22T13:59:05.321+05:30"}
 ---
 
 
