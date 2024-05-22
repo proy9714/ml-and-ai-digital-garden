@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/k-means-clustering/","noteIcon":"","updated":"2024-05-22T15:13:33.628+05:30"}
+{"dg-publish":true,"permalink":"/k-means-clustering/","noteIcon":"2","updated":"2024-05-22T15:13:33.628+05:30"}
 ---
 
 
