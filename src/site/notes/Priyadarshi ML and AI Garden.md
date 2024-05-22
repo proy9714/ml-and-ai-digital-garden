@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/priyadarshi-ml-and-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry"],"noteIcon":"","updated":"2024-05-22T15:25:59.583+05:30"}
+{"dg-publish":true,"permalink":"/priyadarshi-ml-and-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry","gardenEntry"],"noteIcon":"","updated":"2024-05-22T15:25:59.583+05:30"}
 ---
 
 
@@ -35,10 +35,10 @@ Here's a list  of all the resources that the website has to offer :
 
 ## Recently Updated Notes
 
+- [[Tree Based Algorithms\|Tree Based Algorithms]]
 - [[Evaluating Machine Learning Models\|Evaluating Machine Learning Models]]
 - [[Optimizers\|Optimizers]]
 - [[Personal Projects\|Personal Projects]]
 - [[Linear and Logistic Regression\|Linear and Logistic Regression]]
-- [[Linear Regression\|Linear Regression]]
 
 { .block-language-dataview}
