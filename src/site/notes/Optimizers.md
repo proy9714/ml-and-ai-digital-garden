@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/optimizers/","noteIcon":"","updated":"2024-05-22T15:29:01.425+05:30"}
+{"dg-publish":true,"permalink":"/optimizers/","noteIcon":"2","updated":"2024-05-22T15:29:01.425+05:30"}
 ---
 
 
