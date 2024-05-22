@@ -5,10 +5,11 @@
 
 ## Welcome! 👋
 
-<p style="font-size: 20px; padding: 1.5em 1em; background: #f5f7ff; border-radius: 4px;">
-  <strong>Hey there! </strong> So glad you found your way to this little corner of the internet. <br><br>
-  This little nook is all about the exciting world of Machine Learning, Deep Learning, and Artificial Intelligence. Buckle up and get ready for an awesome journey!
-</p>
+**Hey there!** So glad you found your way to this little corner of the internet.  
+  
+This little nook is all about the exciting world of Machine Learning, Deep Learning, and Artificial Intelligence. Buckle up and get ready for an awesome journey!
+
+---
 
 This website started as a personal project —a humble GitHub gist where I kept track of the amazing ML resources I stumbled upon while learning the ropes. But hey, why keep all the good stuff to myself? I decided to share it with all of you struggling souls out there who are as eager to dive into Machine Learning as I am.
 
@@ -26,24 +27,14 @@ Let's learn, laugh, and unleash the power of AI together 😀!
 
 If you are an absolute beginner 👼start here:
 
-- 🤖 <a class="internal-link" href="deep-learning-and-ai">Deep Learning and AI</a>
+- 🤖 [[Deep Learning and AI\|Deep Learning and AI]]
 
 Here's a list  of all the resources that the website has to offer :
 
-- 📑 <a class="internal-link" href="/table-of-contents">Table Of Contents</a>
+- 📑 [[Table Of Contents\|Table Of Contents]]
 
 If you are a visual learner 🌈, then navigate the entire website through the knowledge graph:
 
-- 🗺️ <a class="internal-link" href="/knowledge-graph">Knowledge Graph</a>
+- 🗺️ [[Knowledge Graph\|Knowledge Graph]]
 
-
-<strong>Recently updated notes</strong>
-
-<ul>
-  {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes limit: 5 %}
-    <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ note.url }}">{{ note.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+## Recently Updated Notes
