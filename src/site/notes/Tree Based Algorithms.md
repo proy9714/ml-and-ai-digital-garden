@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree-based-algorithms/","noteIcon":"","updated":"2024-05-22T15:31:06.267+05:30"}
+{"dg-publish":true,"permalink":"/tree-based-algorithms/","noteIcon":"2","updated":"2024-05-22T15:31:06.267+05:30"}
 ---
 
 
