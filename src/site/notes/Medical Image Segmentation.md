@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical-image-segmentation/"}
+{"dg-publish":true,"permalink":"/medical-image-segmentation/","noteIcon":"","updated":"2024-05-22T13:57:46.281+05:30"}
 ---
 
 
