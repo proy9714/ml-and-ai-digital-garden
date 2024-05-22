@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/evaluating-machine-learning-models/","noteIcon":"","updated":"2024-05-22T15:09:43.089+05:30"}
+{"dg-publish":true,"permalink":"/evaluating-machine-learning-models/","noteIcon":"","updated":"2024-05-22T15:30:22.897+05:30"}
 ---
 
 
@@ -217,12 +217,12 @@ These metrics help evaluate the performance of machine learning models from diff
 
 ### Confusion Matrix
 
-<iframe src="https://www.youtube.com/embed/Kdsp6soqA7o?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+<iframe src="https://www.youtube.com/embed/Kdsp6soqA7o?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 ---
 
 ## Sensitivity and Specificity
 
-<iframe src="https://www.youtube.com/embed/vP06aMoz4v8?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+<iframe src="https://www.youtube.com/embed/vP06aMoz4v8?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 ---
