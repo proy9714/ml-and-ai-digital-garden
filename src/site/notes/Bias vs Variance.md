@@ -3,6 +3,7 @@
 ---
 
 
+
 ## Bias
 
 **Bias** refers to errors introduced by assuming that our model is simpler than the real-world problem we are trying to solve. Think of it as an archer consistently aiming at a target but always missing in the same direction because they are not accounting for the wind.
