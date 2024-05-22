@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/neural-style-transfer/","noteIcon":"2","updated":"2024-05-22T13:57:57.249+05:30"}
+{"dg-publish":true,"permalink":"/neural-style-transfer/","noteIcon":"2","updated":"2024-05-22T19:27:22.758+05:30"}
 ---
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=do9ASKNPczYct-dd&amp;list=PLBoQnSflObcmbfshq9oNs41vODgXG-608" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/videoseries?si=do9ASKNPczYct-dd&amp;list=PLBoQnSflObcmbfshq9oNs41vODgXG-608" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
