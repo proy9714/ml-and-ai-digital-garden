@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/neural-style-transfer/"}
+{"dg-publish":true,"permalink":"/neural-style-transfer/","noteIcon":"","updated":"2024-05-22T13:57:57.249+05:30"}
 ---
 
 
