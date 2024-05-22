@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transformers/","noteIcon":"","updated":"2024-05-22T13:59:33.243+05:30"}
+{"dg-publish":true,"permalink":"/transformers/","noteIcon":"2","updated":"2024-05-22T13:59:33.243+05:30"}
 ---
 
 
