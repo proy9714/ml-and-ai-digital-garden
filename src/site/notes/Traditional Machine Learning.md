@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/traditional-machine-learning/","noteIcon":"","updated":"2024-05-22T13:59:27.691+05:30"}
+{"dg-publish":true,"permalink":"/traditional-machine-learning/","noteIcon":"2","updated":"2024-05-22T13:59:27.691+05:30"}
 ---
 
 
