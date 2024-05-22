@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/segmentation/","noteIcon":"","updated":"2024-05-22T13:59:00.565+05:30"}
+{"dg-publish":true,"permalink":"/segmentation/","noteIcon":"","updated":"2024-05-22T15:20:20.958+05:30"}
 ---
 
 
@@ -7,13 +7,14 @@
 
 ### 📚[**A Complete guide to Semantic Segmentation in 2024**](https://nanonets.com/blog/semantic-image-segmentation-2020/)
 
-### 📚[**Mean Shift Segmentation Explanation**](https://stackoverflow.com/questions/4831813/image-segmentation-using-mean-shift-explained)
+📚[**Mean Shift Segmentation Explanation**](https://stackoverflow.com/questions/4831813/image-segmentation-using-mean-shift-explained)
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=4PpGXsbupNWrKN3C&amp;list=PL2zRqk16wsdop2EatuowXBX5C-r2FdyNt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### Extremely Detailed and Theoretical
 
-- Extremely detailed and theoretical
+<iframe src="https://www.youtube.com/embed/videoseries?si=4PpGXsbupNWrKN3C&amp;list=PL2zRqk16wsdop2EatuowXBX5C-r2FdyNt" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=O3BlER1c3K2z0CXI&amp;list=PLZsOBAyNTZwbIjGnolFydAN33gyyGP7lT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
