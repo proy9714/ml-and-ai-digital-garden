@@ -1,24 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/langchain/","noteIcon":"","updated":"2024-05-22T13:57:02.609+05:30"}
+{"dg-publish":true,"permalink":"/langchain/","noteIcon":"","updated":"2024-05-22T15:16:19.312+05:30"}
 ---
 
 
-1. [**LangChain 101: The Complete Beginner's Guide**](https://www.youtube.com/@edrickdch
-   - **Resource Type:** 📺 Video
-   - **Comments:** A fast-paced introduction to Langchain and all that it has to offer.
+## Resources
 
-2. [**Deeplearning.ai Langchain Minicourse**](https://learn.deeplearning.ai/langchain)
-   - **Resource Type:** 📺 Video
-   - **Comments:** A much more in-depth explanation and course on Langchain by the founder.
+### A Fast-paced Introduction to Langchain and All that it Has to Offer
 
-3. [**Understanding ReACT with Langchain**](https://www.youtube.com/watch?v=Eug2clsLtFs)
-   - **Resource Type:** 📺 Video
-   - **Comments:** -
+<iframe title="What is LangChain? 101 Beginner's Guide Explained with Animations" src="https://www.youtube.com/embed/P3MAbZ2eMUI?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+---
+
+### [Deeplearning.AI Langchain Minicourse](https://learn.deeplearning.ai/langchain)
+
+A much more in-depth explanation and course on Langchain by the founder.
+
+---
+
+### Understanding ReACT with Langchain
+
+<iframe title="Understanding ReACT with LangChain" src="https://www.youtube.com/embed/Eug2clsLtFs?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
 ---
 
 ### LangGraph
 
-1. [Learn LangGraph- The Easy Way](https://www.youtube.com/watch?v=R8KB-Zcynxc&list=PLasd6OSjN2oJgmjlTcc5zDj6H2L9Itcxt&index=2)
-   - **Resource Type:** 📺 Video
-   - **Comments:** -
+<iframe title="Learn LangGraph - The Easy Way" src="https://www.youtube.com/embed/R8KB-Zcynxc?feature=oembed" height="150" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.33333 / 1; width: 100%; height: 100%;"></iframe>
