@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/traditional-machine-learning/","noteIcon":"2","updated":"2024-05-22T13:59:27.691+05:30"}
+{"dg-publish":true,"permalink":"/traditional-machine-learning/","noteIcon":"2","updated":"2024-05-22T19:33:05.714+05:30"}
 ---
 
 
@@ -11,12 +11,12 @@
 
 ## Topics
 
-### 🔗 [[Linear and Logistic Regression\|Linear and Logistic Regression]]
+### [[Linear and Logistic Regression\|Linear and Logistic Regression]]
 
-### 🔗 [[K-Means Clustering\|K-Means Clustering]]
+### [[K-Means Clustering\|K-Means Clustering]]
 
-### 🔗 [[Support Vector Machine (SVM)\|Support Vector Machine (SVM)]]
+### [[Support Vector Machine (SVM)\|Support Vector Machine (SVM)]]
 
-### 🔗 [[Tree Based Algorithms\|Tree Based Algorithms]]
+### [[Tree Based Algorithms\|Tree Based Algorithms]]
 
-### 🔗 [[Ensemble Methods\|Ensemble Methods]]
+### [[Ensemble Methods\|Ensemble Methods]]
