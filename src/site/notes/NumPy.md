@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/num-py/"}
+{"dg-publish":true,"permalink":"/num-py/","noteIcon":"","updated":"2024-05-22T13:58:12.019+05:30"}
 ---
 
 
