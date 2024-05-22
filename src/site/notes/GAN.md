@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gan/","noteIcon":"","updated":"2024-05-22T15:11:02.872+05:30"}
+{"dg-publish":true,"permalink":"/gan/","noteIcon":"2","updated":"2024-05-22T15:11:02.872+05:30"}
 ---
 
 
