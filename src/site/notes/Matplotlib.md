@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/matplotlib/","noteIcon":"2","updated":"2024-05-22T13:57:41.660+05:30"}
+{"dg-publish":true,"permalink":"/matplotlib/","noteIcon":"2","updated":"2024-05-22T19:24:44.139+05:30"}
 ---
 
 
-1. [**Getting started with matplotlib**](https://www.youtube.com/watch?v=nzKy9GY12yo)
-   - **Resource Type:** 📺 Video
-   - **Comments:** -
+## Getting Started with Matplotlib
 
-2. [**Matplotlib Documentation**](https://matplotlib.org/stable/index.html)
-   - **Resource Type:** 📜 Documentation
-   - **Comments:** Refer to documentation for advanced plot
+<iframe title="Learn Matplotlib in 6 minutes | Matplotlib Python Tutorial" src="https://www.youtube.com/embed/nzKy9GY12yo?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+> [!tip] 📜 [**Matplotlib Documentation**](https://matplotlib.org/stable/index.html)
+> Refer to documentation for advanced plot
