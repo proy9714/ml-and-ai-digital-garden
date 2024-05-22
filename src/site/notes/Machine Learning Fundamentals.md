@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/machine-learning-fundamentals/","noteIcon":"","updated":"2024-05-22T13:57:16.474+05:30"}
+{"dg-publish":true,"permalink":"/machine-learning-fundamentals/","noteIcon":"2","updated":"2024-05-22T13:57:16.474+05:30"}
 ---
 
 
