@@ -67,7 +67,7 @@ In summary, a tensor is a versatile data structure used in machine learning and 
 
 
 
-### What is [[Cross Validation\|Cross Validation]]?
+## What is [[Cross Validation\|Cross Validation]]?
 
 Cross-validation is a technique used in machine learning to evaluate the performance of a model and estimate its generalization ability. It helps assess how well the model will perform on unseen data.
 
