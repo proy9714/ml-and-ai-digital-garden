@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/priyadarshi-ml-and-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/priyadarshi-ml-and-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry"]}
 ---
 
 
@@ -33,8 +33,12 @@ Here's a list  of all the resources that the website has to offer :
 
 - 📑 [[Table Of Contents\|Table Of Contents]]
 
-If you are a visual learner 🌈, then navigate the entire website through the knowledge graph:
-
-- 🗺️ [[Knowledge Graph\|Knowledge Graph]]
-
 ## Recently Updated Notes
+
+- [[Table Of Contents\|Table Of Contents]]
+- [[Priyadarshi ML and AI Garden\|Priyadarshi ML and AI Garden]]
+- [[Bias vs Variance\|Bias vs Variance]]
+- [[Interview Questions\|Interview Questions]]
+- [[Autoencoders\|Autoencoders]]
+
+{ .block-language-dataview}
