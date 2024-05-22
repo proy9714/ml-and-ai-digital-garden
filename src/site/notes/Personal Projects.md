@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-projects/"}
+{"dg-publish":true,"permalink":"/personal-projects/","noteIcon":"","updated":"2024-05-22T13:58:24.159+05:30"}
 ---
 
 
