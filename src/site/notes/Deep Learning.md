@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deep-learning/"}
+{"dg-publish":true,"permalink":"/deep-learning/","noteIcon":"","updated":"2024-05-22T13:56:11.630+05:30"}
 ---
 
 
