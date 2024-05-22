@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/diffusion-models/","noteIcon":"","updated":"2024-05-22T15:05:36.011+05:30"}
+{"dg-publish":true,"permalink":"/diffusion-models/","noteIcon":"2","updated":"2024-05-22T15:05:36.011+05:30"}
 ---
 
 
