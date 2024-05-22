@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/priyadarshi-ml-and-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry"],"noteIcon":"2","updated":"2024-05-22T16:02:42.173+05:30"}
+{"dg-publish":true,"permalink":"/priyadarshi-ml-and-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry"],"noteIcon":"2","updated":"2024-05-22T16:03:20.604+05:30"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 **Hey there!** So glad you found your way to this little corner of the internet.  
   
-This little nook is all about the exciting world of Machine Learning, Deep Learning, and Artificial Intelligence. Buckle up and get ready for an awesome journey!
+This little nook is all about the exciting world of Machine Learning, Deep Learning, and Artificial Intelligence. Buckle up and get ready for an **awesome journey**!
 
 ---
 
@@ -23,7 +23,7 @@ So, grab a cup of coffee (or tea, we don't judge 😉), kick off your shoes, and
 
 Let's learn, laugh, and unleash the power of AI together 😀!
 
-### Getting Started
+## Getting Started
 
 If you are an absolute beginner 👼start here:
 
