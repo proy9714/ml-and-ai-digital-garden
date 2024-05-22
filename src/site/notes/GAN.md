@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gan/"}
+{"dg-publish":true,"permalink":"/gan/","noteIcon":"","updated":"2024-05-22T13:56:39.412+05:30"}
 ---
 
 
