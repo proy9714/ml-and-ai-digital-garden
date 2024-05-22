@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/object-detection-and-tracking/","noteIcon":"","updated":"2024-05-22T13:58:15.672+05:30"}
+{"dg-publish":true,"permalink":"/object-detection-and-tracking/","noteIcon":"2","updated":"2024-05-22T13:58:15.672+05:30"}
 ---
 
 
