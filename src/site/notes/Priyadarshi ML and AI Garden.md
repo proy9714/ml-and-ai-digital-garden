@@ -35,10 +35,10 @@ Here's a list  of all the resources that the website has to offer :
 
 ## Recently Updated Notes
 
-- [[Regularization\|Regularization]]
-- [[Segmentation\|Segmentation]]
-- [[Scikit-learn\|Scikit-learn]]
-- [[Resources\|Resources]]
-- [[Reinforcement Learning\|Reinforcement Learning]]
+- [[Table Of Contents\|Table Of Contents]]
+- [[Norms\|Norms]]
+- [[Gradients\|Gradients]]
+- [[GAN\|GAN]]
+- [[Google Colab\|Google Colab]]
 
 { .block-language-dataview}
