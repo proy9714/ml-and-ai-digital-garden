@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/evaluating-machine-learning-models/","noteIcon":"","updated":"2024-05-22T13:56:33.588+05:30"}
+{"dg-publish":true,"permalink":"/evaluating-machine-learning-models/","noteIcon":"","updated":"2024-05-22T15:09:43.089+05:30"}
 ---
 
 
@@ -157,7 +157,7 @@ graph TD;
     F2 --> G
 ```
 
-### Confusion Matrix
+### [[Evaluating Machine Learning Models#^bd6d42\|Confusion Matrix]]
 
 A confusion matrix is a table that is often used to describe the performance of a classification model. It includes the following:
 
@@ -175,6 +175,8 @@ A confusion matrix is a table that is often used to describe the performance of 
 - Total Instances: 100
 
 **Confusion Matrix:**
+{ #6e32d8}
+
 
 |                     | Predicted Positive | Predicted Negative |
 |---------------------|--------------------|--------------------|
@@ -213,10 +215,14 @@ These metrics help evaluate the performance of machine learning models from diff
 
 ---
 
-![**Confusion Matrix**](https://www.youtube.com/watch?v=Kdsp6soqA7o&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=3)
+### Confusion Matrix
+
+<iframe src="https://www.youtube.com/embed/Kdsp6soqA7o?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
 ---
 
-![**Sensitivity and Specificity**](https://www.youtube.com/watch?v=vP06aMoz4v8&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=4)
+## Sensitivity and Specificity
+
+<iframe src="https://www.youtube.com/embed/vP06aMoz4v8?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
 ---
