@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/evaluating-machine-learning-models/","noteIcon":"2","updated":"2024-05-22T15:30:22.897+05:30"}
+{"dg-publish":true,"permalink":"/evaluating-machine-learning-models/","noteIcon":"2","updated":"2024-05-22T18:56:13.742+05:30"}
 ---
 
 
@@ -135,26 +135,26 @@ $$ \text{F1 Score} = 2 \times \frac{0.833 \times 0.833}{0.833 + 0.833} = 0.833 $
 **Mermaid Diagram:**
 
 ```mermaid
-graph TD;
-    A[Total Instances: 100]
-    B[True Positives: 50]
-    C[True Negatives: 30]
-    D[False Positives: 10]
-    E[False Negatives: 10]
-    F1[Precision: 0.833]
-    F2[Recall: 0.833]
-    G[F1 Score: 0.833]
-    
-    A --> B
-    A --> C
-    A --> D
-    A --> E
-    B --> F1
-    D --> F1
-    B --> F2
-    E --> F2
-    F1 --> G
-    F2 --> G
+	graph TD;
+	    A[Total Instances: 100]
+	    B[True Positives: 50]
+	    C[True Negatives: 30]
+	    D[False Positives: 10]
+	    E[False Negatives: 10]
+	    F1[Precision: 0.833]
+	    F2[Recall: 0.833]
+	    G[F1 Score: 0.833]
+	    
+	    A --> B
+	    A --> C
+	    A --> D
+	    A --> E
+	    B --> F1
+	    D --> F1
+	    B --> F2
+	    E --> F2
+	    F1 --> G
+	    F2 --> G
 ```
 
 ### [[Evaluating Machine Learning Models#^bd6d42\|Confusion Matrix]]
