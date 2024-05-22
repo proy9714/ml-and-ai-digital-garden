@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gan/","noteIcon":"2","updated":"2024-05-22T15:11:02.872+05:30"}
+{"dg-publish":true,"permalink":"/gan/","tags":["generative-ai","computer-vision"],"noteIcon":"2","updated":"2024-05-22T19:45:34.840+05:30"}
 ---
 
 
