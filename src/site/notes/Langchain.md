@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/langchain/","noteIcon":"","updated":"2024-05-22T15:16:19.312+05:30"}
+{"dg-publish":true,"permalink":"/langchain/","noteIcon":"2","updated":"2024-05-22T15:16:19.312+05:30"}
 ---
 
 
