@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/priyadarshi-ml-and-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","updated":"2024-05-22T14:20:58.500+05:30"}
+{"dg-publish":true,"permalink":"/priyadarshi-ml-and-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","updated":"2024-05-22T14:20:58.500+05:30"}
 ---
 
 
@@ -35,10 +35,10 @@ Here's a list  of all the resources that the website has to offer :
 
 ## Recently Updated Notes
 
+- [[Segmentation\|Segmentation]]
+- [[Linear Regression\|Linear Regression]]
+- [[Linear and Logistic Regression\|Linear and Logistic Regression]]
 - [[Langchain\|Langchain]]
 - [[K-Means Clustering\|K-Means Clustering]]
-- [[Google Colab\|Google Colab]]
-- [[GAN\|GAN]]
-- [[Evaluating Machine Learning Models\|Evaluating Machine Learning Models]]
 
 { .block-language-dataview}
