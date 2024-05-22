@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/priyadarshi-ml-and-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"2","updated":"2024-05-22T15:25:59.583+05:30"}
+{"dg-publish":true,"permalink":"/priyadarshi-ml-and-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry"],"noteIcon":"2","updated":"2024-05-22T16:02:42.173+05:30"}
 ---
 
 
@@ -37,8 +37,8 @@ Here's a list  of all the resources that the website has to offer :
 
 - [[Bias vs Variance\|Bias vs Variance]]
 - [[Personal Projects\|Personal Projects]]
-- [[__Keys__\|__Keys__]]
 - [[Tree Based Algorithms\|Tree Based Algorithms]]
 - [[Evaluating Machine Learning Models\|Evaluating Machine Learning Models]]
+- [[Optimizers\|Optimizers]]
 
 { .block-language-dataview}
