@@ -1,16 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/linear-regression/","noteIcon":"","updated":"2024-05-22T13:57:11.356+05:30"}
+{"dg-publish":true,"permalink":"/linear-regression/","noteIcon":"","updated":"2024-05-22T15:19:03.599+05:30"}
 ---
 
 
-1. [**Linear Regression and Linear Models (StatQuest) - Very Detailed**](https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU)
-   - **Resource Type:** 📺 Video
-   - **Comments:** Very Detailed
+## Linear Regression and Linear Models (StatQuest) - Very Detailed
 
-2. [**Implementation using ScikitLearn**](https://www.youtube.com/watch?v=2Bgma44OAF4&list=PLZsOBAyNTZwaQB9nUTYUYNhz7b22bAJYY&index=3)
-   - **Resource Type:** 📺 Video
-   - **Comments:** -
+<iframe src="https://www.youtube.com/embed/videoseries?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
-3. [**Multiple Linear Regression with SciKit-Learn in Python**](https://www.youtube.com/watch?v=Q_7JaAp4emM&list=PLZsOBAyNTZwaQB9nUTYUYNhz7b22bAJYY&index=5)
-   - **Resource Type:** 📺 Video
-   - **Comments:** -
+---
+
+## Implementation Using ScikitLearn
+
+<iframe src="https://www.youtube.com/embed/2Bgma44OAF4?list=PLZsOBAyNTZwaQB9nUTYUYNhz7b22bAJYY" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+---
+
+### Multiple Linear Regression with SciKit-Learn in Python
+
+<iframe src="https://www.youtube.com/embed/Q_7JaAp4emM?list=PLZsOBAyNTZwaQB9nUTYUYNhz7b22bAJYY" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
