@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regularization/","noteIcon":"","updated":"2024-05-22T13:58:38.854+05:30"}
+{"dg-publish":true,"permalink":"/regularization/","noteIcon":"2","updated":"2024-05-22T13:58:38.854+05:30"}
 ---
 
 
