@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cross-validation/","noteIcon":"","updated":"2024-05-22T13:56:05.395+05:30"}
+{"dg-publish":true,"permalink":"/cross-validation/","noteIcon":"","updated":"2024-05-22T15:02:07.553+05:30"}
 ---
 
 
-### What is [[Cross Validation\|Cross Validation]]?
+## What is [[Cross Validation\|Cross Validation]]?
 
 Cross-validation is a technique used in machine learning to evaluate the performance of a model and estimate its generalization ability. It helps assess how well the model will perform on unseen data.
 
@@ -23,7 +23,7 @@ In summary, cross-validation is a technique in machine learning that involves di
 
 ### A Simple Explanation to Grasp the Requirement and Concept of K-fold Cross Validation
 
-![**Cross Validation - Statquest**](https://www.youtube.com/watch?v=fSytzGwwBVw&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=2)
+<iframe src="https://www.youtube.com/embed/fSytzGwwBVw?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
 ---
 
@@ -33,6 +33,6 @@ In summary, cross-validation is a technique in machine learning that involves di
 - Holdout vs Cross Validation
 - When to use which?
 
-![**Cross Validation Explained - CodeEmporium**](https://www.youtube.com/watch?v=a86WxNgMv7E&list=WL&index=1&t=10s)
+<iframe title="Cross Validation Explained!" src="https://www.youtube.com/embed/a86WxNgMv7E?start=10&amp;feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
 ---
