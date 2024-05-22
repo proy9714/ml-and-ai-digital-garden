@@ -1,20 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/regularization/","noteIcon":"2","updated":"2024-05-22T13:58:38.854+05:30"}
+{"dg-publish":true,"permalink":"/regularization/","noteIcon":"2","updated":"2024-05-22T19:42:30.482+05:30"}
 ---
 
 
-- [**Simple Explanation of Regularization in deep learning and why it is needed**](https://www.youtube.com/watch?v=CgbbvozFgXo)
-    - **Resource Type:** 📺 Video
-    - **Comments:** -
+## Simple Explanation of Regularization in Deep Learning and why it is Needed
 
-- [**L2 Ridge Regression**](https://www.youtube.com/watch?v=Q81RR3yKn30)
-	- **Resource Type**: 📺 Video
-	- **Comments**:- To be used when most variables contribute to the end result in some way or another.
-	
--  [**L1 Lasso Regression**](https://www.youtube.com/watch?v=NGf0voTMlcs)
-	- **Resource Type**: 📺 Video
-	- **Comments**:- To be used when there are many unrelated/insignificant variables. L1 helps to completely get rid of these variables and retain only the significant ones.
-	
-- [**Ridge vs Lasso Regression, Visualized!!!**](https://www.youtube.com/watch?v=Xm2C_gTAl8c)
-	- **Resource Type**: 📺 Video
-	- **Comments**:- Very nice visualization explaining the difference between L1 and L2 regularization.
+<iframe title="Regularization in Deep Learning | How it solves Overfitting ?" src="https://www.youtube.com/embed/CgbbvozFgXo?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+---
+
+## L2 Ridge Regression
+
+<iframe title="Regularization Part 1: Ridge (L2) Regression" src="https://www.youtube.com/embed/Q81RR3yKn30?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+> [!tip] To be used when most variables contribute to the end result in some way or another.
+
+---
+
+## L1 Lasso Regression
+
+<iframe title="Regularization Part 2: Lasso (L1) Regression" src="https://www.youtube.com/embed/NGf0voTMlcs?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+> [!tip] To be used when there are many unrelated/insignificant variables. L1 helps to completely get rid of these variables and retain only the significant ones.
+
+---
+
+## Ridge Vs Lasso Regression, Visualized!!!
+
+> [!info] Very nice visualization explaining the difference between L1 and L2 regularization.
+
+<iframe title="Ridge vs Lasso Regression, Visualized!!!" src="https://www.youtube.com/embed/Xm2C_gTAl8c?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
