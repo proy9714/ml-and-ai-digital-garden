@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/k-means-clustering/","noteIcon":"","updated":"2024-05-22T13:56:57.708+05:30"}
+{"dg-publish":true,"permalink":"/k-means-clustering/","noteIcon":"","updated":"2024-05-22T15:13:33.628+05:30"}
 ---
 
 
@@ -7,14 +7,20 @@
   <img src="https://media.giphy.com/media/12vVAGkaqHUqCQ/giphy.gif" width="100%"/>
 </div>
 
-1. [**Introduction to K-Means - Computerphile**](https://www.youtube.com/watch?v=yR7k19YBqiw&list=PLasd6OSjN2oLfFXanE_j8Aax03Tqh7F4J&index=2)
-   - **Resource Type:** 📺 Video
-   - **Comments:** -
+## Resources
 
-2. [**Coding K-Means (scikit-learn) - Digital Sreeni**](https://www.youtube.com/watch?v=d7NJGLevmwA&list=PLasd6OSjN2oLfFXanE_j8Aax03Tqh7F4J&index=3)
-   - **Resource Type:** 📺 Video
-   - **Comments:** -
+### Introduction to K-Means - Computerphile
 
-3. [**Image Segmentation using K-Means - Digital Sreeni**](https://www.youtube.com/watch?v=6CqRnx6Ic48&list=PLasd6OSjN2oLfFXanE_j8Aax03Tqh7F4J&index=5)
-   - **Resource Type:** 📺 Video
-   - **Comments:** -
+<iframe title="K-means &amp; Image Segmentation - Computerphile" src="https://www.youtube.com/embed/yR7k19YBqiw?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+---
+
+### Coding K-Means (scikit-learn) - Digital Sreeni
+
+<iframe title="50 - What is k-means clustering and how to code it in Python?" src="https://www.youtube.com/embed/d7NJGLevmwA?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+---
+
+### Image Segmentation Using K-Means - Digital Sreeni
+
+<iframe title="51 - Image Segmentation using K-means" src="https://www.youtube.com/embed/6CqRnx6Ic48?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
