@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mathematical-foundations/","noteIcon":"","updated":"2024-05-22T13:57:36.300+05:30"}
+{"dg-publish":true,"permalink":"/mathematical-foundations/","noteIcon":"2","updated":"2024-05-22T13:57:36.300+05:30"}
 ---
 
 
