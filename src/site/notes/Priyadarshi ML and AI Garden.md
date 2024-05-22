@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/priyadarshi-ml-and-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/priyadarshi-ml-and-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","updated":"2024-05-22T14:20:58.500+05:30"}
 ---
 
 
@@ -35,9 +35,9 @@ Here's a list  of all the resources that the website has to offer :
 
 ## Recently Updated Notes
 
+- [[Bias vs Variance\|Bias vs Variance]]
 - [[Table Of Contents\|Table Of Contents]]
 - [[Priyadarshi ML and AI Garden\|Priyadarshi ML and AI Garden]]
-- [[Bias vs Variance\|Bias vs Variance]]
 - [[Interview Questions\|Interview Questions]]
 - [[Autoencoders\|Autoencoders]]
 
