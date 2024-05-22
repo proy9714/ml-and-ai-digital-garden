@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convolutional-neural-network-cnn/"}
+{"dg-publish":true,"permalink":"/convolutional-neural-network-cnn/","noteIcon":"","updated":"2024-05-22T13:55:54.611+05:30"}
 ---
 
 
