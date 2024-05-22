@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-vision/","noteIcon":"","updated":"2024-05-22T15:03:41.157+05:30"}
+{"dg-publish":true,"permalink":"/computer-vision/","noteIcon":"2","updated":"2024-05-22T15:03:41.157+05:30"}
 ---
 
 
