@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/normalization/","noteIcon":"","updated":"2024-05-22T13:58:07.473+05:30"}
+{"dg-publish":true,"permalink":"/normalization/","noteIcon":"2","updated":"2024-05-22T13:58:07.473+05:30"}
 ---
 
 
