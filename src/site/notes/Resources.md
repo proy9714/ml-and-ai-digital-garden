@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/","noteIcon":"2","updated":"2024-05-22T13:58:48.509+05:30"}
+{"dg-publish":true,"permalink":"/resources/","noteIcon":"2","updated":"2024-05-22T19:37:19.480+05:30"}
 ---
 
 
@@ -9,11 +9,11 @@
 
 [**Machine Learning Mastery**](https://machinelearningmastery.com/)
 
-[**Gradio**](https://gradio.app/)
-- Build & Share Delightful Machine Learning Apps
+> [!info] [**Gradio**](https://gradio.app/)
+> Build & Share Delightful Machine Learning Apps
 
-[**Darknet**](https://pjreddie.com/darknet/)
-- Open Source Neural Networks in C
+> [!info] [**Darknet**](https://pjreddie.com/darknet/)
+Open Source Neural Networks in C
 
 [**ModelZoo**](https://modelzoo.co/)
 
@@ -39,10 +39,10 @@
 { #c315bc}
 
 
-[**PyTorch Notebooks**](https://github.com/dair-ai/pytorch_notebooks)
+> [!info] [**PyTorch Notebooks**](https://github.com/dair-ai/pytorch_notebooks)
 { #fbc349}
 
-- A collection of [[PyTorch\|PyTorch]] notebooks for studying and practicing deep learning. Each notebook contains a set of exercises that are specifically designed to engage and encourage the learner to conduct more research and experiments. (Work in progress!)
+> A collection of [[PyTorch\|PyTorch]] notebooks for studying and practicing deep learning. Each notebook contains a set of exercises that are specifically designed to engage and encourage the learner to conduct more research and experiments. **(Work in progress!)**
 
 [**Pytorch Repo from Python-Engineer**](https://github.com/python-engineer/pytorchTutorial)
 { #844a39}
