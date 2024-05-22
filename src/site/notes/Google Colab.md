@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/google-colab/"}
+{"dg-publish":true,"permalink":"/google-colab/","noteIcon":"","updated":"2024-05-22T13:56:48.104+05:30"}
 ---
 
 
