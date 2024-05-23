@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/ensemble-learning/","tags":["bagging","boosting","ensemble-learning"],"noteIcon":"2","updated":"2024-05-23T17:08:45.324+05:30"}
+{"dg-publish":true,"permalink":"/ensemble-learning/","tags":["bagging","boosting","ensemble-learning"],"noteIcon":"2","updated":"2024-05-23T17:28:39.262+05:30"}
 ---
 
 
 Ensemble learning is like teamwork for algorithms. Instead of relying on just one algorithm to make predictions, ensemble learning combines multiple algorithms together to improve accuracy and make more reliable predictions.
 
-**Bagging** is a type of ensemble learning where multiple copies of the same algorithm are trained on different random subsets of the data (***bootstrapping***). Each copy learns something slightly different, and then their predictions are combined to make a final decision. It's like asking multiple experts to give their opinions, and then taking the average or most common answer.
+**[[Bagging\|Bagging]]** is a type of ensemble learning where multiple copies of the same algorithm are trained on different random subsets of the data (***bootstrapping***). Each copy learns something slightly different, and then their predictions are combined to make a final decision. *It's like asking multiple experts to give their opinions, and then taking the average or most common answer.*
 
-**Boosting**, on the other hand, is a bit like learning from your mistakes. It starts with a weak algorithm and focuses on the mistakes it makes. It then trains more copies of the algorithm, each one paying extra attention to where the previous ones went wrong. This iterative process continues until the predictions become more accurate.
+**[[Boosting\|Boosting]]**, on the other hand, is a bit like learning from your mistakes. It starts with a weak algorithm and focuses on the mistakes it makes. It then trains more copies of the algorithm, each one paying extra attention to where the previous ones went wrong. This iterative process continues until the predictions become more accurate.
 
 ```mermaid
 graph LR;
@@ -42,13 +42,50 @@ graph LR;
 
 <iframe title="Bagging vs Boosting - Ensemble Learning In Machine Learning Explained" src="https://www.youtube.com/embed/tjy0yL1rRRU?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;"></iframe>
 
----
-
 ### 📚 [Boosting and Bagging explained with examples !!!](https://medium.com/swlh/boosting-and-bagging-explained-with-examples-5353a36eb78d)
 
 - Very clearly explains how boosting and bagging works with very simple examples!
 
 ---
+
+## Bagging and Boosting Algorithms
+
+### Examples of Bagging Algorithms
+
+1. **[[Random Forest\|Random Forest]]**
+   - **Description**: Combines multiple decision trees trained on different subsets of the data. Each tree votes, and the majority vote is taken as the final prediction.
+   - **Use Case**: Effective for both classification and regression tasks.
+
+2. **[[Bagged Decision Trees\|Bagged Decision Trees]]**
+   - **Description**: Multiple decision trees are trained on different bootstrap samples of the data, and their predictions are averaged (regression) or voted (classification).
+   - **Use Case**: Reduces the variance of decision trees.
+
+### Examples of Boosting Algorithms
+
+1. **[[AdaBoost\|AdaBoost]] (Adaptive Boosting)**
+   - **Description**: Sequentially adds weak learners, each focusing more on the misclassified samples from the previous learners. The final prediction is a weighted sum of the weak learners' predictions.
+   - **Use Case**: Often used for binary classification problems.
+
+2. **[[Gradient Boosting\|Gradient Boosting]]**
+   - **Description**: Sequentially adds models that predict the residual errors of prior models. This helps to improve accuracy by focusing on the errors of previous models.
+   - **Use Case**: Effective for both classification and regression tasks.
+
+3. **[[XGBoost\|XGBoost]] (Extreme Gradient Boosting)**
+   - **Description**: An optimized version of gradient boosting that includes regularization to prevent overfitting and is known for its speed and performance.
+   - **Use Case**: Widely used in machine learning competitions for its high performance.
+
+4. **[[LightGBM\|LightGBM]] (Light Gradient Boosting Machine)**
+   - **Description**: A gradient boosting framework that uses tree-based learning algorithms, designed for efficiency and scalability.
+   - **Use Case**: Works well with large datasets and is used for both classification and regression tasks.
+
+### Summary
+
+- **Bagging Algorithms**: [[Random Forest\|Random Forest]], [[Bagged Decision Trees\|Bagged Decision Trees]]
+- **Boosting Algorithms**: [[AdaBoost\|AdaBoost]], [[Gradient Boosting\|Gradient Boosting]], [[XGBoost\|XGBoost]], [[LightGBM\|LightGBM]]
+
+---
+
+## FAQ
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/faq/#449278" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
