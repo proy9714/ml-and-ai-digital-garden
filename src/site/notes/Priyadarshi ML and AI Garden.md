@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/priyadarshi-ml-and-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry"],"noteIcon":"2","updated":"2024-05-22T16:03:20.604+05:30"}
+{"dg-publish":true,"permalink":"/priyadarshi-ml-and-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry","gardenEntry"],"noteIcon":"2","updated":"2024-05-22T16:03:20.604+05:30"}
 ---
 
 
@@ -35,10 +35,10 @@ Here's a list  of all the resources that the website has to offer :
 
 ## Recently Updated Notes
 
+- [[Ensemble Learning\|Ensemble Learning]]
+- [[FAQ\|FAQ]]
 - [[Generative AI\|Generative AI]]
 - [[Stable Diffusion\|Stable Diffusion]]
 - [[Diffusion Models\|Diffusion Models]]
-- [[Evaluating Machine Learning Models\|Evaluating Machine Learning Models]]
-- [[FAQ\|FAQ]]
 
 { .block-language-dataview}
