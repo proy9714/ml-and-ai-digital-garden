@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree-based-algorithms/","noteIcon":"2","updated":"2024-05-22T15:31:06.267+05:30"}
+{"dg-publish":true,"permalink":"/tree-based-algorithms/","noteIcon":"2","updated":"2024-05-23T13:23:17.700+05:30"}
 ---
 
 
@@ -57,7 +57,7 @@ graph TD;
 - Very good walk-through (**detailed**!) using a notebook using Decision tree classification.
 
 
-<iframe src="https://www.youtube.com/embed/videoseries?si=7XG8zmdWMriKBD7Q&amp;list=PLblh5JKOoLUKAtDViTvRGFpphEc24M-QH" allow="fullscreen" allowfullscreen="" style="height:auto;width:100%; aspect-ratio: 16 / 9; "></iframe>
+<iframe src="https://www.youtube.com/embed/videoseries?si=7XG8zmdWMriKBD7Q&amp;list=PLblh5JKOoLUKAtDViTvRGFpphEc24M-QH" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 ---
 
