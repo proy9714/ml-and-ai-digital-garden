@@ -1,14 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/support-vector-machine-svm/","noteIcon":"2","updated":"2024-05-22T13:59:05.321+05:30"}
+{"dg-publish":true,"permalink":"/support-vector-machine-svm/","noteIcon":"2","updated":"2024-05-23T13:41:13.104+05:30"}
 ---
 
 
-![**Support Vector Machines Overview**](https://www.youtube.com/watch?v=_YPScrckx28&list=PLasd6OSjN2oKHZbVxLlaGot30nRcD7e3n&index=1&t=2s)
+## What Are SVMs?
+
+<iframe title="Support Vector Machine (SVM) in 2 minutes" src="https://www.youtube.com/embed/_YPScrckx28?start=2&amp;feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
 ---
 
-![**The Kernel Trick**](https://www.youtube.com/watch?v=Q7vT0--5VII&list=PLasd6OSjN2oKHZbVxLlaGot30nRcD7e3n&index=2)
+## The Kernel Trick
+
+<iframe title="The Kernel Trick in Support Vector Machine (SVM)" src="https://www.youtube.com/embed/Q7vT0--5VII?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
 ---
 
-![**SVM for flower distinction using sklearn**](https://www.youtube.com/watch?v=FB5EdxAGxQg&list=PLasd6OSjN2oKHZbVxLlaGot30nRcD7e3n&index=3)
+## SVM for Flower Distinction Using Sklearn
+
+<iframe title="Machine Learning Tutorial Python - 10  Support Vector Machine (SVM)" src="https://www.youtube.com/embed/FB5EdxAGxQg?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
