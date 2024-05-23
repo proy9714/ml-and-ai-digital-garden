@@ -5,7 +5,7 @@
 
 | File                                                                          | Created           | Aliases                                                                             |
 | ----------------------------------------------------------------------------- | ----------------- | ----------------------------------------------------------------------------------- |
-| [[Ensemble Learning\|Ensemble Learning]]                                   | February 14, 2024 | <ul></ul>                                                                           |
+| [[Ensemble Learning\|Ensemble Learning]]                                   | February 14, 2024 | <ul><li>bagging and boosting</li><li>bagging</li><li>boosting</li></ul>             |
 | [[Matplotlib\|Matplotlib]]                                                 | February 14, 2024 | <ul></ul>                                                                           |
 | [[Medical Image Segmentation\|Medical Image Segmentation]]                 | February 14, 2024 | <ul></ul>                                                                           |
 | [[Meta Learning\|Meta Learning]]                                           | February 14, 2024 | <ul></ul>                                                                           |
