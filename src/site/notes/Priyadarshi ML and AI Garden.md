@@ -35,10 +35,10 @@ Here's a list  of all the resources that the website has to offer :
 
 ## Recently Updated Notes
 
-- [[Table Of Contents\|Table Of Contents]]
-- [[Norms\|Norms]]
+- [[Tensorflow\|Tensorflow]]
+- [[Support Vector Machine (SVM)\|Support Vector Machine (SVM)]]
 - [[Gradients\|Gradients]]
-- [[GAN\|GAN]]
-- [[Google Colab\|Google Colab]]
+- [[Transformers\|Transformers]]
+- [[Tree Based Algorithms\|Tree Based Algorithms]]
 
 { .block-language-dataview}
