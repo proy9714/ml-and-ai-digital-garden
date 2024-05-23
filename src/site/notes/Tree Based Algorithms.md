@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree-based-algorithms/","noteIcon":"2","updated":"2024-05-23T13:23:17.700+05:30"}
+{"dg-publish":true,"permalink":"/tree-based-algorithms/","noteIcon":"2","updated":"2024-05-23T17:19:20.515+05:30"}
 ---
 
 
@@ -88,4 +88,7 @@ Also explains [[Ensemble Learning\|Bootstrapping and Bagging]] and Random Featur
 
 ---
 
-## Explore [[Ensemble Learning\|Ensemble Learning]] after Learning Tree-based Algorithms!
+## Related Topics
+
+- [[Random Forest\|Random Forest]]
+- [[Ensemble Learning\|Ensemble Learning]]
