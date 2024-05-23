@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/interview-questions/","tags":["interview","questions","faq"],"noteIcon":"2","updated":"2024-05-23T14:18:43.379+05:30"}
+{"dg-publish":true,"permalink":"/interview-questions/","tags":["interview","questions","faq"],"noteIcon":"2","updated":"2024-05-23T14:44:22.867+05:30"}
 ---
 
 
