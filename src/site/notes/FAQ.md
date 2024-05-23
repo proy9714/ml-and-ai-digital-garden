@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faq/","tags":["faq","questions"],"noteIcon":"2","updated":"2024-05-23T14:44:44.670+05:30"}
+{"dg-publish":true,"permalink":"/faq/","tags":["faq","questions"],"noteIcon":"2","updated":"2024-05-23T14:49:32.388+05:30"}
 ---
 
 
@@ -14,7 +14,8 @@
 > 
 > Furthermore, TensorFlow is not limited to a single programming language. It offers APIs for Python, C++, Java, and other languages, making it accessible to a wide range of developers.
 > Overall, TensorFlow is a powerful and versatile library that empowers researchers and developers to build and deploy machine learning models efficiently, with extensive support for various network architectures and scalable computing environments.
-{ #13f2dc}
+{ #73f56d}
+
 
 
 > [!faq]- What is a Tensor?
@@ -29,9 +30,9 @@
 > By using tensors, TensorFlow can perform computations on large datasets in parallel across multiple devices, like CPUs or GPUs, enabling faster and more efficient machine learning tasks.
 > 
 > In summary, a tensor is a versatile data structure used in machine learning and TensorFlow to represent multi-dimensional arrays of numerical values, allowing for efficient processing and manipulation of data during the training and evaluation of machine learning models.
-{ #7c60f7}
+{ #c7ebc7}
 
-{ #31ed57}
+
 
 > [!faq]- What is [[Cross Validation\|Cross Validation]]?
 > Cross-validation is a technique used in machine learning to evaluate the performance of a model and estimate its generalization ability. It helps assess how well the model will perform on unseen data.
@@ -43,11 +44,11 @@
 > It's important to note that cross-validation is typically used during the model development and tuning phase, not during the final evaluation on a completely independent test set. The final evaluation is usually performed on a separate test set that the model has never seen before.
 > 
 > In summary, cross-validation is a technique in machine learning that involves dividing the data into training and validation sets, repeatedly training and evaluating the model on different subsets of data. It helps assess the model's performance and generalization ability, providing a more reliable estimate of how well the model will perform on unseen data.
-{ #ae0b67}
+{ #ac1949}
 
-{ #c96cc6}
+
 
 > [!info] 📚 [What is the difference between numpy.array shape (R, 1) and (R,)](https://stackoverflow.com/questions/22053050/difference-between-numpy-array-shape-r-1-and-r)
-{ #af6b17}
+{ #420545}
 
 
