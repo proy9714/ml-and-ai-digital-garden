@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/priyadarshi-ml-and-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"2","updated":"2024-05-22T16:03:20.604+05:30"}
+{"dg-publish":true,"permalink":"/priyadarshi-ml-and-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"2","updated":"2024-05-22T16:03:20.604+05:30"}
 ---
 
 
@@ -35,10 +35,10 @@ Here's a list  of all the resources that the website has to offer :
 
 ## Recently Updated Notes
 
-- [[Autoencoders\|Autoencoders]]
-- [[Cross Validation\|Cross Validation]]
+- [[NumPy\|NumPy]]
 - [[FAQ\|FAQ]]
-- [[Interview Questions\|Interview Questions]]
-- [[Linear and Logistic Regression\|Linear and Logistic Regression]]
+- [[Cross Validation\|Cross Validation]]
+- [[Tensorflow\|Tensorflow]]
+- [[Autoencoders\|Autoencoders]]
 
 { .block-language-dataview}
