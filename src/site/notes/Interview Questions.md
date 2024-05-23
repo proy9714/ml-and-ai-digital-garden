@@ -61,8 +61,12 @@ These are actual questions I have been asked at interviews. I have also provided
 
 
 
-> [!info] 📚 [What is the difference between numpy.array shape (R, 1) and (R,)](https://stackoverflow.com/questions/22053050/difference-between-numpy-array-shape-r-1-and-r)
-
+> [!info]  What is the difference between numpy.array shape (R, 1) and (R,)?]
+> 📚[A fantastic stackoverflow explanation of numpy shapes!](https://stackoverflow.com/questions/22053050/difference-between-numpy-array-shape-r-1-and-r)
+> 
+> ![Pasted image 20240523150151.png](/img/user/Assets/Pasted%20image%2020240523150151.png)
+>
+> ![Pasted image 20240523150208.png](/img/user/Assets/Pasted%20image%2020240523150208.png)
 
 
 
@@ -117,8 +121,12 @@ These are actual questions I have been asked at interviews. I have also provided
 
 
 
-> [!info] 📚 [What is the difference between numpy.array shape (R, 1) and (R,)](https://stackoverflow.com/questions/22053050/difference-between-numpy-array-shape-r-1-and-r)
-
+> [!info]  What is the difference between numpy.array shape (R, 1) and (R,)?]
+> 📚[A fantastic stackoverflow explanation of numpy shapes!](https://stackoverflow.com/questions/22053050/difference-between-numpy-array-shape-r-1-and-r)
+> 
+> ![Pasted image 20240523150151.png](/img/user/Assets/Pasted%20image%2020240523150151.png)
+>
+> ![Pasted image 20240523150208.png](/img/user/Assets/Pasted%20image%2020240523150208.png)
 
 
 
@@ -173,8 +181,12 @@ These are actual questions I have been asked at interviews. I have also provided
 
 
 
-> [!info] 📚 [What is the difference between numpy.array shape (R, 1) and (R,)](https://stackoverflow.com/questions/22053050/difference-between-numpy-array-shape-r-1-and-r)
-
+> [!info]  What is the difference between numpy.array shape (R, 1) and (R,)?]
+> 📚[A fantastic stackoverflow explanation of numpy shapes!](https://stackoverflow.com/questions/22053050/difference-between-numpy-array-shape-r-1-and-r)
+> 
+> ![Pasted image 20240523150151.png](/img/user/Assets/Pasted%20image%2020240523150151.png)
+>
+> ![Pasted image 20240523150208.png](/img/user/Assets/Pasted%20image%2020240523150208.png)
 
 
 
