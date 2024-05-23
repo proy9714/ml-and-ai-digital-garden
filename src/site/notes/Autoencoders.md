@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/autoencoders/","noteIcon":"2","updated":"2024-05-22T14:07:40.055+05:30"}
+{"dg-publish":true,"permalink":"/autoencoders/","noteIcon":"2","updated":"2024-05-23T14:46:03.931+05:30"}
 ---
 
 
-## Episodes : **85a, 90, 178, 179**
+## Digital Sreeni Playlist
+
+> [!tip] Watch episodes : **85a, 90, 178, 179**
 
 <iframe src="https://www.youtube.com/embed/videoseries?si=8a7niqW-jfpEJYAq&amp;list=PLZsOBAyNTZwbIjGnolFydAN33gyyGP7lT" allow="fullscreen" allowfullscreen="" style="height:auto;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
