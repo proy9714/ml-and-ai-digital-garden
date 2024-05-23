@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/deep-learning/","noteIcon":"2","updated":"2024-05-22T15:03:23.953+05:30"}
+{"dg-publish":true,"permalink":"/deep-learning/","noteIcon":"2","updated":"2024-05-23T16:54:27.795+05:30"}
 ---
 
 
-## Very Good for Theory!
+## Getting Started
+
+> [!tip] Very Good for Theory!
 
 <iframe src="https://www.youtube.com/embed/videoseries?si=XDrEfnBdDzzGvsSJ&amp;list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
