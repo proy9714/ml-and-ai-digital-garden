@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transformers/","noteIcon":"2","updated":"2024-05-23T13:23:29.814+05:30"}
+{"dg-publish":true,"permalink":"/transformers/","noteIcon":"2","updated":"2024-05-23T16:29:09.118+05:30"}
 ---
 
 
@@ -12,7 +12,9 @@
 
 ## Resources
 
-### A Fantastic Introduction to Transformers (Illustrated guide)!
+### A Fantastic Introduction to Transformers!
+
+> [!important] Beautiful illustrated guide!
 
 📚 [**A fantastic introduction to Transformers!**](https://jalammar.github.io/illustrated-transformer/)
 
@@ -56,7 +58,7 @@
 
 ### Getting Started with Large Language Models…
 
-**Code Emporium is one of the best and in-depth channels out there!**
+> [!tip] Code Emporium is one of the best and in-depth channels out there!
 
 <iframe src="https://www.youtube.com/embed/videoseries?si=gb5VikH6k-nTf28N&amp;list=PLTl9hO2Oobd9coYT6XsTraTBo4pL1j4HJ" allow="fullscreen" allowfullscreen="" style="height:auto%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
