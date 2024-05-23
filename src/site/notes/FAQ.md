@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faq/","tags":["faq","questions"],"noteIcon":"2","updated":"2024-05-23T15:05:26.827+05:30"}
+{"dg-publish":true,"permalink":"/faq/","tags":["faq","questions"],"noteIcon":"2","updated":"2024-05-23T16:55:58.698+05:30"}
 ---
 
 
@@ -35,12 +35,12 @@
 
 
 > [!faq]- What is [[Cross Validation\|Cross Validation]]?
-> Cross-validation is a technique used in machine learning to evaluate the performance of a model and estimate its generalization ability. It helps assess how well the model will perform on unseen data.
-> In cross-validation, the available data is divided into two parts: the training set and the validation set. The model is trained on the training set and then evaluated on the validation set. This process is repeated multiple times, with different subsets of data used for training and validation each time.
+> Cross-validation is a technique used in machine learning to [[Evaluating Machine Learning Models\|evaluate]] the performance of a model and estimate its generalization ability. It helps assess how well the model will perform on unseen data.
+> In cross-validation, the available data is divided into two parts: the **training set** and the **validation set**. The model is trained on the training set and then evaluated on the validation set. This process is repeated multiple times, with different subsets of data used for training and validation each time.
 > 
-> The most common form of cross-validation is called k-fold cross-validation. In k-fold cross-validation, the data is divided into k equally sized subsets or "folds." The model is trained on k-1 folds and validated on the remaining fold. This process is repeated k times, each time using a different fold as the validation set. The performance results from each fold are averaged to obtain an overall performance estimate of the model.
+> The most common form of cross-validation is called **k-fold cross-validation**. In k-fold cross-validation, the data is divided into k equally sized subsets or "folds." The model is trained on k-1 folds and validated on the remaining fold. This process is repeated k times, each time using a different fold as the validation set. The performance results from each fold are averaged to obtain an overall performance estimate of the model.
 > 
-> Cross-validation helps address the issue of overfitting, which is when a model performs well on the training data but poorly on new, unseen data. By evaluating the model on multiple subsets of data, cross-validation provides a more robust estimate of how well the model will generalize to unseen data.
+> Cross-validation helps address the issue of **overfitting**, which is when a model performs well on the training data but poorly on new, unseen data. By evaluating the model on multiple subsets of data, cross-validation provides a *more robust estimate of how well the model will generalize to unseen data*.
 > It's important to note that cross-validation is typically used during the model development and tuning phase, not during the final evaluation on a completely independent test set. The final evaluation is usually performed on a separate test set that the model has never seen before.
 > 
 > In summary, cross-validation is a technique in machine learning that involves dividing the data into training and validation sets, repeatedly training and evaluating the model on different subsets of data. It helps assess the model's performance and generalization ability, providing a more reliable estimate of how well the model will perform on unseen data.
@@ -48,7 +48,7 @@
 
 
 
-> [!info]-  What is the difference between numpy.array shape (R, 1) and (R,)?]
+> [!faq]-  What is the difference between numpy.array shape (R, 1) and (R,)?
 > 📚[A fantastic stackoverflow explanation of numpy shapes!](https://stackoverflow.com/questions/22053050/difference-between-numpy-array-shape-r-1-and-r)
 > 
 > ![Pasted image 20240523150151.png](/img/user/Assets/Pasted%20image%2020240523150151.png)
