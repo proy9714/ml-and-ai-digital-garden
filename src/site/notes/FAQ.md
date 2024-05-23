@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faq/","tags":["faq","questions"],"noteIcon":"2","updated":"2024-05-23T15:03:19.744+05:30"}
+{"dg-publish":true,"permalink":"/faq/","tags":["faq","questions"],"noteIcon":"2","updated":"2024-05-23T15:05:26.827+05:30"}
 ---
 
 
@@ -48,7 +48,7 @@
 
 
 
-> [!info]  What is the difference between numpy.array shape (R, 1) and (R,)?]
+> [!info]-  What is the difference between numpy.array shape (R, 1) and (R,)?]
 > 📚[A fantastic stackoverflow explanation of numpy shapes!](https://stackoverflow.com/questions/22053050/difference-between-numpy-array-shape-r-1-and-r)
 > 
 > ![Pasted image 20240523150151.png](/img/user/Assets/Pasted%20image%2020240523150151.png)
