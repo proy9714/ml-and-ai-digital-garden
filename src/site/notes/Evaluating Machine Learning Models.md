@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/evaluating-machine-learning-models/","noteIcon":"2","updated":"2024-05-22T18:56:13.742+05:30"}
+{"dg-publish":true,"permalink":"/evaluating-machine-learning-models/","tags":["evaluation"],"noteIcon":"2","updated":"2024-05-23T16:57:58.313+05:30"}
 ---
 
 
