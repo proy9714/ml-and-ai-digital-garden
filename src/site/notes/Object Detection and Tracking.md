@@ -1,20 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/object-detection-and-tracking/","noteIcon":"2","updated":"2024-05-22T13:58:15.672+05:30"}
+{"dg-publish":true,"permalink":"/object-detection-and-tracking/","noteIcon":"2","updated":"2024-05-23T14:35:31.844+05:30"}
 ---
 
 
-1. [**Object Detection - Pierian Data**](https://www.youtube.com/watch?v=xyGk_TUYEpA&list=PLBeP_p-EQoiC5F4E3i0LafCoXbG6BOwo5)
-   - **Resource Type:** 📺 Video
-   - **Comments:** -
+## Object Detection - Deep Learning Code With Aarohi
 
-2. [**Object Tracking - Pierian Data**](https://www.youtube.com/watch?v=hidswSlR0M0&list=PLBeP_p-EQoiCSgUCTdvd5XwKgwHkfBzjt)
-   - **Resource Type:** 📺 Video
-   - **Comments:** -
+<iframe src="https://www.youtube.com/embed/videoseries?list=PLv8Cp2NvcY8ATPRk4LycJWr5YWB_svhrW" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
-3. [**Object Detection - Deep Learning Code With Aarohi**](https://www.youtube.com/playlist?list=PLv8Cp2NvcY8ATPRk4LycJWr5YWB_svhrW)
-   - **Resource Type:** 📺 Video
-   - **Comments:** -
+## What is YOLO Algorithm?
 
-4. [**What is YOLO algorithm?**](https://www.youtube.com/watch?v=ag3DLKsl2vk)
-   - **Resource Type:** 📺 Video
-   - **Comments:** -
+<iframe title="What is YOLO algorithm? | Deep Learning Tutorial 31 (Tensorflow, Keras &amp; Python)" src="https://www.youtube.com/embed/ag3DLKsl2vk?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
