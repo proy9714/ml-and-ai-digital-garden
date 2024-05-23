@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/","noteIcon":"2","updated":"2024-05-22T19:37:19.480+05:30"}
+{"dg-publish":true,"permalink":"/resources/","noteIcon":"2","updated":"2024-05-23T14:26:14.507+05:30"}
 ---
 
 
@@ -20,6 +20,8 @@ Open Source Neural Networks in C
 [**TensorFlow Hub**](https://tfhub.dev/)
 
 [**PyTorch Hub**](https://pytorch.org/hub/)
+{ #38c599}
+
 
 [**StabilityAI**](https://stability.ai/)
 
@@ -43,6 +45,8 @@ Open Source Neural Networks in C
 { #fbc349}
 
 > A collection of [[PyTorch\|PyTorch]] notebooks for studying and practicing deep learning. Each notebook contains a set of exercises that are specifically designed to engage and encourage the learner to conduct more research and experiments. **(Work in progress!)**
+{ #5f92ef}
+
 
 [**Pytorch Repo from Python-Engineer**](https://github.com/python-engineer/pytorchTutorial)
 { #844a39}
