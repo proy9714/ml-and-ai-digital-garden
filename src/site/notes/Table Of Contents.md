@@ -60,5 +60,6 @@
 | [[TorchStudio\|TorchStudio]]                                               | May 23, 2024      | <ul></ul>                                                                           |
 | [[Generative AI\|Generative AI]]                                           | May 23, 2024      | <ul></ul>                                                                           |
 | [[Stable Diffusion\|Stable Diffusion]]                                     | May 23, 2024      | <ul></ul>                                                                           |
+| [[AdaBoost\|AdaBoost]]                                                     | May 23, 2024      | <ul></ul>                                                                           |
 
 { .block-language-dataview}
