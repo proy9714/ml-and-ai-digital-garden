@@ -7,27 +7,27 @@
 | ----------------------------------------------------------------------------- | ----------------- | --------- |
 | [[Ensemble Learning\|Ensemble Learning]]                                   | February 14, 2024 | <ul></ul> |
 | [[Machine Learning Toolkit\|Machine Learning Toolkit]]                     | February 14, 2024 | <ul></ul> |
-| [[Medical Image Segmentation\|Medical Image Segmentation]]                 | February 14, 2024 | <ul></ul> |
 | [[Matplotlib\|Matplotlib]]                                                 | February 14, 2024 | <ul></ul> |
-| [[Neural Style Transfer\|Neural Style Transfer]]                           | February 14, 2024 | <ul></ul> |
-| [[NLP\|NLP]]                                                               | February 14, 2024 | <ul></ul> |
-| [[Normalization\|Normalization]]                                           | February 14, 2024 | <ul></ul> |
-| [[NumPy\|NumPy]]                                                           | February 14, 2024 | <ul></ul> |
+| [[Medical Image Segmentation\|Medical Image Segmentation]]                 | February 14, 2024 | <ul></ul> |
 | [[Meta Learning\|Meta Learning]]                                           | February 14, 2024 | <ul></ul> |
+| [[NLP\|NLP]]                                                               | February 14, 2024 | <ul></ul> |
+| [[Neural Style Transfer\|Neural Style Transfer]]                           | February 14, 2024 | <ul></ul> |
+| [[Normalization\|Normalization]]                                           | February 14, 2024 | <ul></ul> |
 | [[Object Detection and Tracking\|Object Detection and Tracking]]           | February 14, 2024 | <ul></ul> |
+| [[NumPy\|NumPy]]                                                           | February 14, 2024 | <ul></ul> |
 | [[Optimizers\|Optimizers]]                                                 | February 14, 2024 | <ul></ul> |
 | [[Priyadarshi ML and AI Garden\|Priyadarshi ML and AI Garden]]             | February 14, 2024 | <ul></ul> |
 | [[Personal Projects\|Personal Projects]]                                   | February 14, 2024 | <ul></ul> |
 | [[PyTorch\|PyTorch]]                                                       | February 14, 2024 | <ul></ul> |
 | [[Reinforcement Learning\|Reinforcement Learning]]                         | February 14, 2024 | <ul></ul> |
-| [[Segmentation\|Segmentation]]                                             | February 14, 2024 | <ul></ul> |
 | [[Support Vector Machine (SVM)\|Support Vector Machine (SVM)]]             | February 14, 2024 | <ul></ul> |
+| [[Segmentation\|Segmentation]]                                             | February 14, 2024 | <ul></ul> |
 | [[Tensorflow\|Tensorflow]]                                                 | February 14, 2024 | <ul></ul> |
 | [[Traditional Machine Learning\|Traditional Machine Learning]]             | February 14, 2024 | <ul></ul> |
 | [[Regularization\|Regularization]]                                         | February 28, 2024 | <ul></ul> |
 | [[Activation Functions\|Activation Functions]]                             | May 16, 2024      | <ul></ul> |
-| [[Autoencoders\|Autoencoders]]                                             | May 16, 2024      | <ul></ul> |
 | [[Bias vs Variance\|Bias vs Variance]]                                     | May 16, 2024      | <ul></ul> |
+| [[Autoencoders\|Autoencoders]]                                             | May 16, 2024      | <ul></ul> |
 | [[Computer Vision\|Computer Vision]]                                       | May 16, 2024      | <ul></ul> |
 | [[Convolutional Neural Network (CNN)\|Convolutional Neural Network (CNN)]] | May 16, 2024      | <ul></ul> |
 | [[Cross Validation\|Cross Validation]]                                     | May 16, 2024      | <ul></ul> |
@@ -35,13 +35,13 @@
 | [[Deep Learning\|Deep Learning]]                                           | May 16, 2024      | <ul></ul> |
 | [[Diffusion Models\|Diffusion Models]]                                     | May 16, 2024      | <ul></ul> |
 | [[Evaluating Machine Learning Models\|Evaluating Machine Learning Models]] | May 16, 2024      | <ul></ul> |
-| [[GAN\|GAN]]                                                               | May 16, 2024      | <ul></ul> |
 | [[Google Colab\|Google Colab]]                                             | May 16, 2024      | <ul></ul> |
+| [[GAN\|GAN]]                                                               | May 16, 2024      | <ul></ul> |
 | [[Interview Questions\|Interview Questions]]                               | May 16, 2024      | <ul></ul> |
-| [[K-Means Clustering\|K-Means Clustering]]                                 | May 16, 2024      | <ul></ul> |
 | [[Langchain\|Langchain]]                                                   | May 16, 2024      | <ul></ul> |
-| [[Linear and Logistic Regression\|Linear and Logistic Regression]]         | May 16, 2024      | <ul></ul> |
 | [[Linear Regression\|Linear Regression]]                                   | May 16, 2024      | <ul></ul> |
+| [[K-Means Clustering\|K-Means Clustering]]                                 | May 16, 2024      | <ul></ul> |
+| [[Linear and Logistic Regression\|Linear and Logistic Regression]]         | May 16, 2024      | <ul></ul> |
 | [[Machine Learning Fundamentals\|Machine Learning Fundamentals]]           | May 16, 2024      | <ul></ul> |
 | [[Mathematical Foundations\|Mathematical Foundations]]                     | May 16, 2024      | <ul></ul> |
 | [[Resources\|Resources]]                                                   | May 16, 2024      | <ul></ul> |
