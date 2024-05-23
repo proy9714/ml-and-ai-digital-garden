@@ -1,20 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/vanishing-and-exploding-gradients/","noteIcon":"2","updated":"2024-05-22T13:59:47.350+05:30"}
+{"dg-publish":true,"permalink":"/vanishing-and-exploding-gradients/","noteIcon":"2","updated":"2024-05-23T13:22:55.628+05:30"}
 ---
 
 
 ## Vanishing and Exploding Gradients Explained
 
-![**Vanishing and Exploding Gradient Problem**](https://www.youtube.com/watch?v=qO_NLVjD6zE&t=167s)
+<iframe title="Vanishing &amp; Exploding Gradient explained | A problem resulting from backpropagation" src="https://www.youtube.com/embed/qO_NLVjD6zE?start=167&amp;feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
 ---
 
 ## Vanishing Gradient Problem
 
-![**Vanishing Gradient Problem (Theory)**](https://www.youtube.com/watch?v=JIWXbzRXk1I&t=258s)
+<iframe title="Tutorial 7- Vanishing Gradient Problem" src="https://www.youtube.com/embed/JIWXbzRXk1I?start=258&amp;feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
 ---
 
 ## Exploding Gradient Problem in Neural Networks
 
-![**Exploding Gradient Problem (Theory)**](https://www.youtube.com/watch?v=IJ9atfxFjOQ)
+<iframe title="Tutorial 8- Exploding Gradient Problem in Neural Network" src="https://www.youtube.com/embed/IJ9atfxFjOQ?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
