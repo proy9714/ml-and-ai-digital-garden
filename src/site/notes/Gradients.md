@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gradients/","tags":["maths","mathematics","algebra","backpropagation"],"noteIcon":"2","updated":"2024-05-22T19:54:28.018+05:30"}
+{"dg-publish":true,"permalink":"/gradients/","tags":["maths","mathematics","algebra","backpropagation"],"noteIcon":"2","updated":"2024-05-23T13:35:29.766+05:30"}
 ---
 
 
@@ -19,10 +19,8 @@
 
 ---
 
-## 📚 [Gradients and multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/gradient-and-directional-derivatives/v/gradient)
-
-## 📚 [Gradients vs Partial Derivatives](https://stats.stackexchange.com/questions/285670/gradient-versus-partial-derivatives)
-
-## 📚 [Gradients with PyTorch](https://www.javatpoint.com/gradient-with-pytorch)
-
-## 📚 [Gradients with PyTorch 2](https://stackoverflow.com/questions/55543786/understanding-gradient-in-pytorch)
+📚 [Gradients and multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/gradient-and-directional-derivatives/v/gradient)
+📚 [Gradients vs Partial Derivatives](https://stats.stackexchange.com/questions/285670/gradient-versus-partial-derivatives)
+📚 [Difference Between a Batch and an Epoch in a Neural Network](https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/)
+📚 [Gradients with PyTorch](https://www.javatpoint.com/gradient-with-pytorch)
+📚 [Gradients with PyTorch 2](https://stackoverflow.com/questions/55543786/understanding-gradient-in-pytorch)
