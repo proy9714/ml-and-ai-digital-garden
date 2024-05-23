@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faq/","tags":["faq","questions"],"noteIcon":"2","updated":"2024-05-23T16:55:58.698+05:30"}
+{"dg-publish":true,"permalink":"/faq/","tags":["faq","questions"],"noteIcon":"2","updated":"2024-05-23T17:08:43.333+05:30"}
 ---
 
 
@@ -55,4 +55,38 @@
 >
 > ![Pasted image 20240523150208.png](/img/user/Assets/Pasted%20image%2020240523150208.png)
 { #420545}
+
+
+
+> [!faq]- When to use Bagging vs when to use Boosting?
+> ### Bagging
+> - **When to use it?**
+> 	- **When you have high variance**: Your model is too sensitive to the data (e.g., it changes a lot with different training data).
+> 	- **When you want to reduce overfitting**: Bagging helps to make your model more stable by averaging multiple models.
+> 	- **When you can train multiple models independently**: Each model can be trained in parallel.
+> - **How it works?**
+> 	- **Bootstrap sampling**: Create multiple subsets of the training data by sampling with replacement.
+> 	- **Train multiple models**: Train a model on each subset.
+> 	- **Aggregate predictions**: Combine the predictions of all models (e.g., by averaging for regression or voting for classification).
+> 
+> ## Boosting
+> - **When to use it?**
+> 	- **When you have high bias**: Your model is too simple and underfits the data.
+> 	- **When you want to improve weak learners**: Boosting builds a strong model by combining many weak models.
+> 	- **When you can handle sequential training**: Each model is trained based on the errors of the previous one, so they need to be trained in sequence.
+> 	
+> - **How it works?**
+> 	- **Sequential learning**: Train a model, then adjust the training data based on the errors of that model.
+> 	- **Focus on difficult cases**: Each subsequent model focuses more on the data points that were previously misclassified.
+> 	- **Combine models**: Each model’s predictions are weighted based on their accuracy, and the final prediction is a combination of all models.
+> 
+> ## Summary
+> - **Bagging**: Use when you want to reduce variance and can train models independently.
+> - **Boosting**: Use when you want to reduce bias and can train models sequentially.
+>
+>Here's a simple analogy:
+> - **Bagging**: Imagine asking several friends (independently) for their opinions on a movie and then taking the average of their scores.
+> ****- **Boosting**: Imagine asking one friend for their opinion, then another friend to improve upon that opinion, and so on, until you get a refined score.
+{ #449278}
+
 
