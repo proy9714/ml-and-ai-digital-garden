@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bias-vs-variance/","noteIcon":"2","updated":"2024-05-22T15:53:49.488+05:30"}
+{"dg-publish":true,"permalink":"/bias-vs-variance/","tags":["overfitting","underfitting"],"noteIcon":"2","updated":"2024-05-24T17:36:08.621+05:30"}
 ---
 
 
@@ -84,7 +84,7 @@ Overfitting is a common challenge in machine learning where a model performs exc
 
 1. **Increase Training Data**: Obtaining more training data can help the model capture a broader representation of the underlying patterns in the data, reducing the chances of overfitting.
     
-2. **Cross-Validation**: Using cross-validation techniques, such as k-fold cross-validation, helps evaluate the model's performance on multiple subsets of data, providing a more reliable estimate of its generalization ability.
+2. **[[Cross Validation\|Cross Validation]]** : Using cross-validation techniques, such as k-fold cross-validation, helps evaluate the model's performance on multiple subsets of data, providing a more reliable estimate of its generalization ability.
     
 3. **Feature Selection**: Careful selection of relevant features and removing irrelevant or noisy features can help reduce overfitting. It's important to focus on the most informative features that contribute to the predictive power of the model.
     
