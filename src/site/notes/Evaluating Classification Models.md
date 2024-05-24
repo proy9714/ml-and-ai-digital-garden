@@ -1,7 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/evaluating-classification-models/","tags":["evaluation","classification","metrics"],"noteIcon":"2","updated":"2024-05-24T15:23:37.171+05:30"}
+{"dg-publish":true,"permalink":"/evaluating-classification-models/","tags":["evaluation","classification","metrics"],"noteIcon":"2","updated":"2024-05-24T15:51:34.554+05:30"}
 ---
 
+
+## Evaluation Metrics
+
+- [[Evaluating Classification Models#Accuracy\|#Accuracy]]
+- [[Evaluating Classification Models#Precision\|#Precision]]
+- [[Evaluating Classification Models#Recall\|#Recall]]
+- [[Evaluating Classification Models#F1 Score\|#F1 Score]]
+- [[Evaluating Classification Models#bd6d42 Confusion Matrix\|Confusion Matrix]]
+- [[Evaluating Classification Models#Sensitivity and Specificity\|#Sensitivity and Specificity]]
 
 ## Accuracy
 
