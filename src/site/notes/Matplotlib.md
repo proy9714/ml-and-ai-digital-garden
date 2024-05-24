@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/matplotlib/","noteIcon":"2","updated":"2024-05-22T19:24:44.139+05:30"}
+{"dg-publish":true,"permalink":"/matplotlib/","tags":["library"],"noteIcon":"2","updated":"2024-05-24T15:37:30.532+05:30"}
 ---
 
 
