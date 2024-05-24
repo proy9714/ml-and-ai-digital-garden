@@ -15,11 +15,11 @@
 | [[Normalization\|Normalization]]                                           | February 14, 2024 | <ul></ul>                                                               |
 | [[NumPy\|NumPy]]                                                           | February 14, 2024 | <ul></ul>                                                               |
 | [[Object Detection and Tracking\|Object Detection and Tracking]]           | February 14, 2024 | <ul></ul>                                                               |
-| [[Personal Projects\|Personal Projects]]                                   | February 14, 2024 | <ul></ul>                                                               |
+| [[Optimizers\|Optimizers]]                                                 | February 14, 2024 | <ul></ul>                                                               |
 | [[Priyadarshi ML and AI Garden\|Priyadarshi ML and AI Garden]]             | February 14, 2024 | <ul></ul>                                                               |
+| [[Personal Projects\|Personal Projects]]                                   | February 14, 2024 | <ul></ul>                                                               |
 | [[PyTorch\|PyTorch]]                                                       | February 14, 2024 | <ul></ul>                                                               |
 | [[Reinforcement Learning\|Reinforcement Learning]]                         | February 14, 2024 | <ul></ul>                                                               |
-| [[Optimizers\|Optimizers]]                                                 | February 14, 2024 | <ul></ul>                                                               |
 | [[Segmentation\|Segmentation]]                                             | February 14, 2024 | <ul></ul>                                                               |
 | [[Support Vector Machine (SVM)\|Support Vector Machine (SVM)]]             | February 14, 2024 | <ul></ul>                                                               |
 | [[Tensorflow\|Tensorflow]]                                                 | February 14, 2024 | <ul></ul>                                                               |
@@ -32,18 +32,18 @@
 | [[Convolutional Neural Network (CNN)\|Convolutional Neural Network (CNN)]] | May 16, 2024      | <ul></ul>                                                               |
 | [[Cross Validation\|Cross Validation]]                                     | May 16, 2024      | <ul></ul>                                                               |
 | [[Deep Learning and AI\|Deep Learning and AI]]                             | May 16, 2024      | <ul></ul>                                                               |
-| [[Deep Learning\|Deep Learning]]                                           | May 16, 2024      | <ul></ul>                                                               |
 | [[Diffusion Models\|Diffusion Models]]                                     | May 16, 2024      | <ul></ul>                                                               |
+| [[Deep Learning\|Deep Learning]]                                           | May 16, 2024      | <ul></ul>                                                               |
 | [[Evaluating Machine Learning Models\|Evaluating Machine Learning Models]] | May 16, 2024      | <ul><li>metrics</li><li>evaluation-metrics</li></ul>                    |
 | [[GAN\|GAN]]                                                               | May 16, 2024      | <ul></ul>                                                               |
 | [[Google Colab\|Google Colab]]                                             | May 16, 2024      | <ul><li>Colab</li></ul>                                                 |
-| [[K-Means Clustering\|K-Means Clustering]]                                 | May 16, 2024      | <ul></ul>                                                               |
 | [[Interview Questions\|Interview Questions]]                               | May 16, 2024      | <ul></ul>                                                               |
+| [[K-Means Clustering\|K-Means Clustering]]                                 | May 16, 2024      | <ul></ul>                                                               |
+| [[Langchain\|Langchain]]                                                   | May 16, 2024      | <ul></ul>                                                               |
 | [[Linear and Logistic Regression\|Linear and Logistic Regression]]         | May 16, 2024      | <ul></ul>                                                               |
 | [[Linear Regression\|Linear Regression]]                                   | May 16, 2024      | <ul></ul>                                                               |
-| [[Mathematical Foundations\|Mathematical Foundations]]                     | May 16, 2024      | <ul></ul>                                                               |
-| [[Langchain\|Langchain]]                                                   | May 16, 2024      | <ul></ul>                                                               |
 | [[Machine Learning Fundamentals\|Machine Learning Fundamentals]]           | May 16, 2024      | <ul></ul>                                                               |
+| [[Mathematical Foundations\|Mathematical Foundations]]                     | May 16, 2024      | <ul></ul>                                                               |
 | [[Resources\|Resources]]                                                   | May 16, 2024      | <ul></ul>                                                               |
 | [[Torchvision\|Torchvision]]                                               | May 16, 2024      | <ul></ul>                                                               |
 | [[Transformers\|Transformers]]                                             | May 16, 2024      | <ul></ul>                                                               |
@@ -55,13 +55,14 @@
 | [[Norms\|Norms]]                                                           | May 22, 2024      | <ul></ul>                                                               |
 | [[Table Of Contents\|Table Of Contents]]                                   | May 22, 2024      | <ul></ul>                                                               |
 | [[AdaBoost\|AdaBoost]]                                                     | May 23, 2024      | <ul></ul>                                                               |
-| [[Generative AI\|Generative AI]]                                           | May 23, 2024      | <ul></ul>                                                               |
 | [[FAQ\|FAQ]]                                                               | May 23, 2024      | <ul></ul>                                                               |
+| [[Generative AI\|Generative AI]]                                           | May 23, 2024      | <ul></ul>                                                               |
 | [[Keras\|Keras]]                                                           | May 23, 2024      | <ul></ul>                                                               |
 | [[PyTorch Lightning\|PyTorch Lightning]]                                   | May 23, 2024      | <ul></ul>                                                               |
 | [[Stable Diffusion\|Stable Diffusion]]                                     | May 23, 2024      | <ul></ul>                                                               |
 | [[TorchStudio\|TorchStudio]]                                               | May 23, 2024      | <ul></ul>                                                               |
 | [[Evaluating Classification Models\|Evaluating Classification Models]]     | May 24, 2024      | <ul></ul>                                                               |
 | [[Evaluating Regression Models\|Evaluating Regression Models]]             | May 24, 2024      | <ul></ul>                                                               |
+| [[Gradient Boosting\|Gradient Boosting]]                                   | May 24, 2024      | <ul></ul>                                                               |
 
 { .block-language-dataview}
