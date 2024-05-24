@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faq/","tags":["faq","questions"],"noteIcon":"2","updated":"2024-05-23T17:08:43.333+05:30"}
+{"dg-publish":true,"permalink":"/faq/","tags":["faq","questions"],"noteIcon":"2","updated":"2024-05-24T17:16:31.025+05:30"}
 ---
 
 
@@ -59,7 +59,7 @@
 
 
 > [!faq]- When to use Bagging vs when to use Boosting?
-> ### Bagging
+> ## Bagging
 > - **When to use it?**
 > 	- **When you have high variance**: Your model is too sensitive to the data (e.g., it changes a lot with different training data).
 > 	- **When you want to reduce overfitting**: Bagging helps to make your model more stable by averaging multiple models.
@@ -86,7 +86,6 @@
 >
 >Here's a simple analogy:
 > - **Bagging**: Imagine asking several friends (independently) for their opinions on a movie and then taking the average of their scores.
-> ****- **Boosting**: Imagine asking one friend for their opinion, then another friend to improve upon that opinion, and so on, until you get a refined score.
+> - **Boosting**: Imagine asking one friend for their opinion, then another friend to improve upon that opinion, and so on, until you get a refined score.
 { #449278}
-
 
