@@ -36,7 +36,7 @@
 | [[Diffusion Models\|Diffusion Models]]                                     | May 16, 2024      | <ul></ul>                                                               |
 | [[Evaluating Machine Learning Models\|Evaluating Machine Learning Models]] | May 16, 2024      | <ul><li>metrics</li><li>evaluation-metrics</li></ul>                    |
 | [[GAN\|GAN]]                                                               | May 16, 2024      | <ul></ul>                                                               |
-| [[Google Colab\|Google Colab]]                                             | May 16, 2024      | <ul></ul>                                                               |
+| [[Google Colab\|Google Colab]]                                             | May 16, 2024      | <ul><li>Colab</li></ul>                                                 |
 | [[K-Means Clustering\|K-Means Clustering]]                                 | May 16, 2024      | <ul></ul>                                                               |
 | [[Interview Questions\|Interview Questions]]                               | May 16, 2024      | <ul></ul>                                                               |
 | [[Linear and Logistic Regression\|Linear and Logistic Regression]]         | May 16, 2024      | <ul></ul>                                                               |
