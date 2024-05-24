@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/py-torch/","noteIcon":"2","updated":"2024-05-23T14:32:03.039+05:30"}
+{"dg-publish":true,"permalink":"/py-torch/","noteIcon":"2","updated":"2024-05-24T17:51:27.130+05:30"}
 ---
 
 
@@ -14,8 +14,6 @@
 <iframe src="https://www.youtube.com/embed/videoseries?list=PL23RutZ7d6Nr6fcHOy3qQPB6UxMnbq78z" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
 ---
-
-📚 [Saving and loading PyTorch Models](https://wandb.ai/wandb/common-ml-errors/reports/How-to-Save-and-Load-Models-in-PyTorch--VmlldzozMjg0MTE)
 
 ## Dive into Deep Learning - Dr. Data Science Series
 
@@ -35,6 +33,8 @@
 ---
 
 ## Related Topics
+
+📚 [Saving and loading PyTorch Models](https://wandb.ai/wandb/common-ml-errors/reports/How-to-Save-and-Load-Models-in-PyTorch--VmlldzozMjg0MTE)
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/resources/#38c599" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
