@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/priyadarshi-ml-and-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry","gardenEntry"],"noteIcon":"2","updated":"2024-05-22T16:03:20.604+05:30"}
+{"dg-publish":true,"permalink":"/priyadarshi-ml-and-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"2","updated":"2024-05-22T16:03:20.604+05:30"}
 ---
 
 
@@ -35,10 +35,10 @@ Here's a list  of all the resources that the website has to offer :
 
 ## Recently Updated Notes
 
-- [[Evaluating Regression Models\|Evaluating Regression Models]]
-- [[Evaluating Machine Learning Models\|Evaluating Machine Learning Models]]
 - [[Evaluating Classification Models\|Evaluating Classification Models]]
-- [[AdaBoost\|AdaBoost]]
-- [[Ensemble Learning\|Ensemble Learning]]
+- [[Evaluating Machine Learning Models\|Evaluating Machine Learning Models]]
+- [[Evaluating Regression Models\|Evaluating Regression Models]]
+- [[Matplotlib\|Matplotlib]]
+- [[Google Colab\|Google Colab]]
 
 { .block-language-dataview}
