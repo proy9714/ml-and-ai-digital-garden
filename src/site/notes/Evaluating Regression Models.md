@@ -1,10 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/evaluating-regression-models/","tags":["evaluation","metrics","regression"],"noteIcon":"2","updated":"2024-05-24T15:28:18.530+05:30"}
+{"dg-publish":true,"permalink":"/evaluating-regression-models/","tags":["evaluation","metrics","regression"],"noteIcon":"2","updated":"2024-05-24T15:47:01.854+05:30"}
 ---
 
 
 
-Evluating regression models involves different metrics compared to classification models. These metrics help understand the model's performance in predicting continuous values. Here are some common regression evaluation metrics along with simple explanations and visual examples using Mermaid diagrams.
+Evaluating regression models involves different metrics compared to classification models. These metrics help understand the model's performance in predicting continuous values. Here are some common regression evaluation metrics along with simple explanations and visual examples using Mermaid diagrams.
+
+## Evaluation Metrics
+
+- [[Evaluating Regression Models#Mean Absolute Error (MAE)\|#Mean Absolute Error (MAE)]]
+- [[Evaluating Regression Models#Mean Squared Error (MSE)\|#Mean Squared Error (MSE)]]
+- [[Evaluating Regression Models#Root Mean Squared Error (RMSE)\|#Root Mean Squared Error (RMSE)]]
+- [[Evaluating Regression Models#R-squared (R²)\|#R-squared (R²)]]
+- [[Evaluating Regression Models#Adjusted R-squared\|#Adjusted R-squared]]
+- [[Evaluating Regression Models#Mean Absolute Percentage Error (MAPE)\|#Mean Absolute Percentage Error (MAPE)]]
 
 ## Mean Absolute Error (MAE)
 
@@ -101,6 +110,13 @@ graph TD;
   E --> F
 ```
 
+**Root Mean Squared Error (RMSE)**:
+
+- Measures the **average magnitude of the errors between predicted and observed values**.
+- Lower values indicate better model performance, as the errors are smaller.
+- There is no definitive range for "good" or "bad" RMSE values, as it depends on the scale and units of the target variable.
+- Generally, lower RMSE values are better, with very low values indicating excellent model performance.
+
 ## R-squared (R²)
 
 R-squared measures the **proportion of the variance in the dependent variable that is predictable from the independent variables**. It is calculated as:
@@ -138,6 +154,16 @@ graph TD;
     E --> G
   F --> G
 ```
+
+Here's a markdown table with a range of values for R-squared and Root Mean Squared Error (RMSE) and how they are typically interpreted for machine learning models:
+
+| R-squared | Interpretation | RMSE            | Interpretation                   |
+| --------- | -------------- | --------------- | -------------------------------- |
+| 0.0 - 0.3 | Very poor fit  | High values     | Poor model performance           |
+| 0.3 - 0.5 | Poor fit       | Moderate values | Moderate model performance       |
+| 0.5 - 0.7 | Moderate fit   | Low values      | Good model performance           |
+| 0.7 - 0.9 | Good fit       | Very low values | Excellent model performance      |
+| 0.9 - 1.0 | Excellent fit  | ~ 0             | Perfect model performance (rare) |
 
 ## Adjusted R-squared
 
