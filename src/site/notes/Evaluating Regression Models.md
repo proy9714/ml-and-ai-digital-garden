@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/evaluating-regression-models/","tags":["evaluation","metrics","regression"],"noteIcon":"2","updated":"2024-05-24T15:27:42.744+05:30"}
+{"dg-publish":true,"permalink":"/evaluating-regression-models/","tags":["evaluation","metrics","regression"],"noteIcon":"2","updated":"2024-05-24T15:28:18.530+05:30"}
 ---
 
 
@@ -78,7 +78,7 @@ $$ \text{RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} ( y_i - \hat{y_i} )^2} $$
 
 - Actual Values: [3, -0.5, 2, 7]
 - Predicted Values: [2.5, 0.0, 2, 8]
-- Number of Instances ($n$): 4
+- Number of Instances (n): 4
 
 $$ \text{RMSE} = \sqrt{\frac{(3 - 2.5)^2 + (-0.5 - 0.0)^2 + (2 - 2)^2 + (7 - 8)^2}{4}} = \sqrt{0.375} \approx 0.612 $$
 
