@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gradient-boosting/","tags":["boosting","ensemble-learning","trees","traditional-ml"],"noteIcon":"2","updated":"2024-05-24T17:23:08.768+05:30"}
+{"dg-publish":true,"permalink":"/gradient-boosting/","tags":["boosting","ensemble-learning","trees","traditional-ml"],"noteIcon":"2","updated":"2024-05-24T17:32:45.973+05:30"}
 ---
 
 
@@ -33,9 +33,6 @@ Imagine you're trying to predict the price of houses based on their size.
 4. **Update Prediction:** Adjust the initial prediction by adding the new model's predictions (scaled by the learning rate).
 5. **Iterate:** Repeat the process, fitting new models to the residuals of the updated predictions.
 
-## Mermaid Diagram
-
-Here's a mermaid diagram to visualize the process:
 
 ```mermaid
 	graph TD;
