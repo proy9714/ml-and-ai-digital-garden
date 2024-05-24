@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gradient-boosting/","tags":["boosting","ensemble-learning","trees","traditional-ml"],"noteIcon":"2","updated":"2024-05-24T17:08:05.564+05:30"}
+{"dg-publish":true,"permalink":"/gradient-boosting/","tags":["boosting","ensemble-learning","trees","traditional-ml"],"noteIcon":"2","updated":"2024-05-24T17:12:45.720+05:30"}
 ---
 
 
@@ -39,12 +39,12 @@ Here's a mermaid diagram to visualize the process:
 
 ```mermaid
 graph TD
-    A[Start with Base Model] --> B[Calculate Residuals]
-    B --> C[Fit New Model to Residuals]
-    C --> D[Update Predictions with Learning Rate]
-    D --> E{Stop Condition Met?}
-    E -- No --> B
-    E -- Yes --> F[Final Model]
+A[Start with Base Model] --> B[Calculate Residuals]
+B --> C[Fit New Model to Residuals]
+C --> D[Update Predictions with Learning Rate]
+D --> E{Stop Condition Met?}
+E -- No --> B
+E -- Yes --> F[Final Model]
 ```
 
 ## Diagram Explanation
