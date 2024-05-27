@@ -35,10 +35,10 @@ Here's a list  of all the resources that the website has to offer :
 
 ## Recently Updated Notes
 
+- [[Segmentation\|Segmentation]]
 - [[Table Of Contents\|Table Of Contents]]
 - [[PyTorch\|PyTorch]]
 - [[Bias vs Variance\|Bias vs Variance]]
 - [[Convolutional Neural Network (CNN)\|Convolutional Neural Network (CNN)]]
-- [[Gradient Boosting\|Gradient Boosting]]
 
 { .block-language-dataview}
