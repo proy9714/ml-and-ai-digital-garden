@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/segmentation/","noteIcon":"2","updated":"2024-05-22T19:38:56.689+05:30"}
+{"dg-publish":true,"permalink":"/segmentation/","noteIcon":"2","updated":"2024-05-27T17:43:00.245+05:30"}
 ---
 
 
@@ -17,10 +17,10 @@
 
 ---
 
-<iframe src="https://www.youtube.com/embed/videoseries?si=O3BlER1c3K2z0CXI&amp;list=PLZsOBAyNTZwbIjGnolFydAN33gyyGP7lT" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
-
 > [!info]
 > Segmentation using U-Net Episodes : 74 - 79
+
+<iframe src="https://www.youtube.com/embed/videoseries?si=O3BlER1c3K2z0CXI&amp;list=PLZsOBAyNTZwbIjGnolFydAN33gyyGP7lT" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 ---
 
@@ -38,7 +38,7 @@
 
 ## An Application of Semantic Segmentation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=FrKq20twKCLCvRY4&amp;list=PLZsOBAyNTZwYgF8O1bTdV-lBdN55wLHDr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/videoseries?si=FrKq20twKCLCvRY4&amp;list=PLZsOBAyNTZwYgF8O1bTdV-lBdN55wLHDr" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 ---
 
