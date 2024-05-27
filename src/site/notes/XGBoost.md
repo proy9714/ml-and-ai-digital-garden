@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/xg-boost/","tags":["ensemble-learning","boosting"],"noteIcon":"2","updated":"2024-05-27T20:23:47.636+05:30"}
+{"dg-publish":true,"permalink":"/xg-boost/","tags":["ensemble-learning","boosting"],"noteIcon":"2","updated":"2024-05-27T20:24:49.837+05:30"}
 ---
 
 
@@ -24,6 +24,7 @@ These improvements make XGBoost particularly powerful and popular in many machin
 > [!info]
 > - Perhaps the only videos required to form an intuition are videos 1 (Introduction) and 4 (Special features).
 > - **The concept is highly complex (especially episode 4), so other than being familiar with the terms I would not recommend getting hung up on the nitty-gritty details!**
+> - The playlist is **ONLY** for getting a overview of the concept.
 
 
 <iframe src="https://www.youtube.com/embed/videoseries?list=PLblh5JKOoLULU0irPgs1SnKO6wqVjKUsQ" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
