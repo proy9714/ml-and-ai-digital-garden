@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bias-vs-variance/","tags":["overfitting","underfitting"],"noteIcon":"2","updated":"2024-05-24T17:36:08.621+05:30"}
+{"dg-publish":true,"permalink":"/bias-vs-variance/","tags":["overfitting","underfitting"],"noteIcon":"2","updated":"2024-05-27T19:07:24.426+05:30"}
 ---
 
 
@@ -54,6 +54,7 @@ graph TD;
     style G fill:#f66,stroke:#333,stroke-width:1px;
     style H fill:#6f6,stroke:#333,stroke-width:1px;
     style I fill:#f66,stroke:#333,stroke-width:1px;
+
 ```
 
 ---
