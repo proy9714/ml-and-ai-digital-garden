@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bias-vs-variance/","tags":["overfitting","underfitting"],"noteIcon":"2","updated":"2024-05-27T19:10:00.587+05:30"}
+{"dg-publish":true,"permalink":"/bias-vs-variance/","tags":["overfitting","underfitting"],"noteIcon":"2","updated":"2024-05-27T19:11:18.985+05:30"}
 ---
 
 
@@ -34,7 +34,7 @@ Here's a visual analogy:
 Balancing bias and variance is key to building models that perform well on unseen data.
 
 ```mermaid
-graph LR;
+graph TD;
     A[Model Performance];
     A --> B(High Bias, Low Variance);
     A --> C(Low Bias, High Variance);
@@ -54,7 +54,6 @@ graph LR;
     style G fill:#f66,stroke:#333,stroke-width:1px;
     style H fill:#6f6,stroke:#333,stroke-width:1px;
     style I fill:#f66,stroke:#333,stroke-width:1px;
-
 ```
 
 ---
