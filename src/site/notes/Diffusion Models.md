@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/diffusion-models/","noteIcon":"2","updated":"2024-05-23T17:00:01.154+05:30"}
+{"dg-publish":true,"permalink":"/diffusion-models/","noteIcon":"2","updated":"2024-05-28T17:19:31.671+05:30"}
 ---
 
 
@@ -28,4 +28,4 @@
 
 ## Related Topics
 
-### [[Stable Diffusion\|Stable Diffusion]]
+- [[Stable Diffusion\|Stable Diffusion]]
