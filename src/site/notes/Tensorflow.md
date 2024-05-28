@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tensorflow/","noteIcon":"2","updated":"2024-05-23T14:49:05.573+05:30"}
+{"dg-publish":true,"permalink":"/tensorflow/","noteIcon":"2","updated":"2024-05-28T17:27:45.778+05:30"}
 ---
 
 
@@ -47,9 +47,8 @@
 
 ## Resources
 
-📜 [Official guide](https://www.tensorflow.org/guide/tensor)
-
-📜 [TensorFlow Hub](https://tfhub.dev/)
+- 📜 [Official guide](https://www.tensorflow.org/guide/tensor)
+- 📜 [TensorFlow Hub](https://tfhub.dev/)
 
 ---
 
@@ -81,4 +80,4 @@
 
 ## Related Topics
 
-### [[Keras\|Keras]]
+- [[Keras\|Keras]]
