@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deep-learning/","noteIcon":"2","updated":"2024-05-23T16:54:27.795+05:30"}
+{"dg-publish":true,"permalink":"/deep-learning/","noteIcon":"2","updated":"2024-05-28T17:08:46.711+05:30"}
 ---
 
 
@@ -23,3 +23,4 @@
 - [[Computer Vision\|Computer Vision]]
 - [[Reinforcement Learning\|Reinforcement Learning]]
 - [[Meta Learning\|Meta Learning]]
+- [[Courses\|Courses]]
