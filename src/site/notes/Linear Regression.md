@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/linear-regression/","tags":["regression","linear-regression"],"noteIcon":"2","updated":"2024-05-22T15:24:53.196+05:30"}
+{"dg-publish":true,"permalink":"/linear-regression/","tags":["regression","linear-regression"],"noteIcon":"2","updated":"2024-05-28T17:22:28.471+05:30"}
 ---
 
 
-## Linear Regression and Linear Models (StatQuest) - Very Detailed
+## Linear Regression and Linear Models (StatQuest)
+
+> [!info] Very Detailed!
 
 <iframe src="https://www.youtube.com/embed/videoseries?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
