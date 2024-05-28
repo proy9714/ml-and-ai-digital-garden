@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deep-learning-and-ai/","noteIcon":"2","updated":"2024-05-22T15:03:59.882+05:30"}
+{"dg-publish":true,"permalink":"/deep-learning-and-ai/","noteIcon":"2","updated":"2024-05-28T17:09:47.139+05:30"}
 ---
 
 
@@ -17,5 +17,7 @@
 ## [[Machine Learning Toolkit\|Machine Learning Toolkit]]
 
 ## [[Resources\|Resources]]
+
+## [[Courses\|Courses]]
 
 ## [[Personal Projects\|Personal Projects]]
