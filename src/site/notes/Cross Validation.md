@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cross-validation/","tags":["evaluation"],"noteIcon":"2","updated":"2024-05-23T14:49:17.102+05:30"}
+{"dg-publish":true,"permalink":"/cross-validation/","tags":["evaluation","metrics"],"noteIcon":"2","updated":"2024-05-28T17:08:18.731+05:30"}
 ---
 
 
