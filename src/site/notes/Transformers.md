@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transformers/","noteIcon":"2","updated":"2024-05-23T16:29:09.118+05:30"}
+{"dg-publish":true,"permalink":"/transformers/","noteIcon":"2","updated":"2024-05-28T17:20:05.712+05:30"}
 ---
 
 
@@ -66,4 +66,4 @@
 
 ## Related Topics
 
-- ### 🔗 [[Langchain\|Langchain]]
+- 🔗 [[Langchain\|Langchain]]
