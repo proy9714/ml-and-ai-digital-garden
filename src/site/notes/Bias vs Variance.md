@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bias-vs-variance/","tags":["overfitting","underfitting"],"noteIcon":"2","updated":"2024-05-29T14:31:17.658+05:30"}
+{"dg-publish":true,"permalink":"/bias-vs-variance/","tags":["overfitting","underfitting"],"noteIcon":"2","updated":"2024-05-29T14:31:47.839+05:30"}
 ---
 
 
@@ -60,7 +60,7 @@ graph TD;
 
 ## Resources
 
-### Why Do We Need the Bias Term in ML Algorithms
+### Why Do We Need the Bias Term in ML Algorithms?
 
 <iframe title="Why do we need the Bias Term in Machine Learning Algorithms and Neural Networks" src="https://www.youtube.com/embed/fMAElNVN4S0?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;"></iframe>
 
