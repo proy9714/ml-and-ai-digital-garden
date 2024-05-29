@@ -21,10 +21,11 @@
 | [[PyTorch\|PyTorch]]                                                       | May 28, 2024 |
 | [[Segmentation\|Segmentation]]                                             | May 28, 2024 |
 | [[Support Vector Machine (SVM)\|Support Vector Machine (SVM)]]             | May 23, 2024 |
-| [[Priyadarshi ML and AI Garden\|Priyadarshi ML and AI Garden]]             | May 22, 2024 |
+| [[Priyadarshi ML and AI Garden\|Priyadarshi ML and AI Garden]]             | May 29, 2024 |
 | [[Tensorflow\|Tensorflow]]                                                 | May 29, 2024 |
 | [[Traditional Machine Learning\|Traditional Machine Learning]]             | May 22, 2024 |
 | [[Regularization\|Regularization]]                                         | May 23, 2024 |
+| [[To Learn...\|To Learn...]]                                               | May 29, 2024 |
 | [[Activation Functions\|Activation Functions]]                             | May 22, 2024 |
 | [[Autoencoders\|Autoencoders]]                                             | May 23, 2024 |
 | [[Bias vs Variance\|Bias vs Variance]]                                     | May 29, 2024 |
