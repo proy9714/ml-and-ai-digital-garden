@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/google-colab/","tags":["softwares","tools","toolkit","magic-methods"],"noteIcon":"2","updated":"2024-05-24T15:34:45.667+05:30"}
+{"dg-publish":true,"permalink":"/google-colab/","tags":["softwares","tools","toolkit","magic-methods"],"noteIcon":"2","updated":"2024-05-29T14:32:01.355+05:30"}
 ---
 
 
-## Magic Methods
+## Magic Methods!
 
 ### 📚 [**Colab Magic Methods - Tutorialspoint**](https://www.tutorialspoint.com/google_colab/google_colab_magics.htm)
 
