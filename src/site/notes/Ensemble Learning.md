@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ensemble-learning/","tags":["bagging","boosting","ensemble-learning"],"noteIcon":"2","updated":"2024-05-29T14:08:55.981+05:30"}
+{"dg-publish":true,"permalink":"/ensemble-learning/","tags":["bagging","boosting","ensemble-learning"],"noteIcon":"2","updated":"2024-05-29T14:10:09.499+05:30"}
 ---
 
 
@@ -35,16 +35,18 @@ graph LR;
 
 ### Bagging Vs Boosting
 
-- Very nice intro to bagging and boosting giving an overview.
-- Nice to form an intuition for getting started on ensemble models.
-- *Fails to give a comprehensive understanding of bias and variance effects on both.*
+> [!info]
+> Very nice intro to bagging and boosting giving an overview.
+> Nice to form an intuition for getting started on ensemble models.
+> *Fails to give a comprehensive understanding of bias and variance effects on both.*
 
 
 <iframe title="Bagging vs Boosting - Ensemble Learning In Machine Learning Explained" src="https://www.youtube.com/embed/tjy0yL1rRRU?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: auto;"></iframe>
 
-### 📚 [Boosting and Bagging explained with examples !!!](https://medium.com/swlh/boosting-and-bagging-explained-with-examples-5353a36eb78d)
+---
 
-- Very clearly explains how boosting and bagging works with very simple examples!
+> [!tip] 📚 [Boosting and Bagging explained with examples !!!](https://medium.com/swlh/boosting-and-bagging-explained-with-examples-5353a36eb78d)
+> Very clearly explains how boosting and bagging works with very simple examples!
 
 ---
 
