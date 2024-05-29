@@ -36,7 +36,7 @@
 | [[Diffusion Models\|Diffusion Models]]                                     | May 28, 2024 |
 | [[Evaluating Machine Learning Models\|Evaluating Machine Learning Models]] | May 24, 2024 |
 | [[GAN\|GAN]]                                                               | May 22, 2024 |
-| [[Google Colab\|Google Colab]]                                             | May 24, 2024 |
+| [[Google Colab\|Google Colab]]                                             | May 29, 2024 |
 | [[Interview Questions\|Interview Questions]]                               | May 29, 2024 |
 | [[K-Means Clustering\|K-Means Clustering]]                                 | May 22, 2024 |
 | [[Langchain\|Langchain]]                                                   | May 23, 2024 |
