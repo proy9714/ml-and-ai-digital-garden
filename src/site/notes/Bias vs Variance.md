@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bias-vs-variance/","tags":["overfitting","underfitting"],"noteIcon":"2","updated":"2024-05-29T13:29:26.255+05:30"}
+{"dg-publish":true,"permalink":"/bias-vs-variance/","tags":["overfitting","underfitting"],"noteIcon":"2","updated":"2024-05-29T14:13:23.402+05:30"}
 ---
 
 
@@ -78,9 +78,7 @@ graph TD;
 
 ---
 
-### Frequently Asked Questions (FAQ)
-
-### [FAQ :: What Are Some Ways We Can Reduce Overfitting?]
+## What Are Some Ways We Can Reduce Overfitting?
 
 Overfitting is a common challenge in machine learning where a model performs exceptionally well on the training data but fails to generalize to new, unseen data. To reduce overfitting, several techniques can be applied:
 
