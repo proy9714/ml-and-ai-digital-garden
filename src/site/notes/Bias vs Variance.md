@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bias-vs-variance/","tags":["overfitting","underfitting"],"noteIcon":"2","updated":"2024-05-29T14:13:23.402+05:30"}
+{"dg-publish":true,"permalink":"/bias-vs-variance/","tags":["overfitting","underfitting"],"noteIcon":"2","updated":"2024-05-29T14:31:17.658+05:30"}
 ---
 
 
@@ -78,25 +78,23 @@ graph TD;
 
 ---
 
-## What Are Some Ways We Can Reduce Overfitting?
 
-Overfitting is a common challenge in machine learning where a model performs exceptionally well on the training data but fails to generalize to new, unseen data. To reduce overfitting, several techniques can be applied:
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/faq/#f47338" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-1. **Increase Training Data**: Obtaining more training data can help the model capture a broader representation of the underlying patterns in the data, reducing the chances of overfitting.
-    
-2. **[[Cross Validation\|Cross Validation]]** : Using cross-validation techniques, such as k-fold cross-validation, helps evaluate the model's performance on multiple subsets of data, providing a more reliable estimate of its generalization ability.
-    
-3. **Feature Selection**: Careful selection of relevant features and removing irrelevant or noisy features can help reduce overfitting. It's important to focus on the most informative features that contribute to the predictive power of the model.
-    
-4. **[[Regularization\|Regularization]]**: Regularization techniques add a penalty term to the model's objective function, discouraging overly complex or extreme parameter values. Common regularization techniques include L1 regularization (Lasso) and L2 regularization (Ridge), which help constrain the model's parameters and prevent overfitting.
-    
-5. **Early Stopping**: Monitoring the model's performance on a validation set during training and stopping the training process when the performance starts to degrade can prevent overfitting. This approach prevents the model from continuing to improve on the training data while losing its ability to generalize.
-    
-6. **[[Ensemble Learning\|Ensemble Learning]]**: Ensemble methods combine multiple models to make predictions. Techniques like bagging (bootstrap aggregating) and boosting can reduce overfitting by aggregating the predictions of multiple models, thereby reducing the impact of individual models that may be prone to overfitting.
-    
-7. **Simplifying the Model**: Reducing the complexity of the model, such as decreasing the number of layers or nodes in a neural network, or reducing the maximum depth of a decision tree, can help prevent overfitting. Simplifying the model reduces its capacity to memorize noise or irrelevant patterns in the data.
-    
-8. **Dropout**: Dropout is a regularization technique commonly used in neural networks. It randomly drops out a fraction of the nodes or connections during training, forcing the network to learn more robust and generalizable features.
-    
 
-These techniques, alone or in combination, can help mitigate overfitting and improve the model's ability to generalize well to unseen data. It's important to strike a balance between model complexity and the amount of available data to achieve the best trade-off between underfitting and overfitting.
+
+> [!faq]- What Are Some Ways We Can Reduce Overfitting?
+> Overfitting is a common challenge in machine learning where a model performs exceptionally well on the training data but fails to generalize to new, unseen data. To reduce overfitting, several techniques can be applied:
+> 1. **Increase Training Data**: Obtaining more training data can help the model capture a broader representation of the underlying patterns in the data, reducing the chances of overfitting.
+> 2. **[[Cross Validation\|Cross Validation]]** : Using cross-validation techniques, such as k-fold cross-validation, helps evaluate the model's performance on multiple subsets of data, providing a more reliable estimate of its generalization ability.
+> 3. **Feature Selection**: Careful selection of relevant features and removing irrelevant or noisy features can help reduce overfitting. It's important to focus on the most informative features that contribute to the predictive power of the model.
+> 4. **[[Regularization\|Regularization]]**: Regularization techniques add a penalty term to the model's objective function, discouraging overly complex or extreme parameter values. Common regularization techniques include L1 regularization (Lasso) and L2 regularization (Ridge), which help constrain the model's parameters and prevent overfitting.
+> 5. **Early Stopping**: Monitoring the model's performance on a validation set during training and stopping the training process when the performance starts to degrade can prevent overfitting. This approach prevents the model from continuing to improve on the training data while losing its ability to generalize.
+> 6. **[[Ensemble Learning\|Ensemble Learning]]**: Ensemble methods combine multiple models to make predictions. Techniques like bagging (bootstrap aggregating) and boosting can reduce overfitting by aggregating the predictions of multiple models, thereby reducing the impact of individual models that may be prone to overfitting.
+> 7. **Simplifying the Model**: Reducing the complexity of the model, such as decreasing the number of layers or nodes in a neural network, or reducing the maximum depth of a decision tree, can help prevent overfitting. Simplifying the model reduces its capacity to memorize noise or irrelevant patterns in the data.
+> 8. **Dropout**: Dropout is a regularization technique commonly used in neural networks. It randomly drops out a fraction of the nodes or connections during training, forcing the network to learn more robust and generalizable features.
+> 
+> These techniques, alone or in combination, can help mitigate overfitting and improve the model's ability to generalize well to unseen data. It's important to strike a balance between model complexity and the amount of available data to achieve the best trade-off between underfitting and overfitting.
+
+</div></div>
+
