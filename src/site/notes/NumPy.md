@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/num-py/","noteIcon":"2","updated":"2024-05-29T13:39:02.953+05:30"}
+{"dg-publish":true,"permalink":"/num-py/","noteIcon":"2","updated":"2024-05-29T14:13:59.084+05:30"}
 ---
 
 
@@ -17,12 +17,17 @@
 
 ---
 
-## Frequently Asked Questions (FAQ)
 
-### [FAQ :: What is the Difference between numpy.array Shape (R, 1) and (R,)?]
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/faq/#420545" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-[**📚 A fantastic stackoverflow explanation of numpy shapes!**](https://stackoverflow.com/questions/22053050/difference-between-numpy-array-shape-r-1-and-r)
 
-![Pasted image 20240523150151.png](/img/user/Assets/Pasted%20image%2020240523150151.png)
 
-![Pasted image 20240523150208.png](/img/user/Assets/Pasted%20image%2020240523150208.png)
+> [!faq]-  What is the difference between numpy.array shape (R, 1) and (R,)?
+> 📚[A fantastic stackoverflow explanation of numpy shapes!](https://stackoverflow.com/questions/22053050/difference-between-numpy-array-shape-r-1-and-r)
+> 
+> ![Pasted image 20240523150151.png](/img/user/Assets/Pasted%20image%2020240523150151.png)
+>
+> ![Pasted image 20240523150208.png](/img/user/Assets/Pasted%20image%2020240523150208.png)
+
+</div></div>
+
