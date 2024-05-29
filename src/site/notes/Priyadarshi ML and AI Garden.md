@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/priyadarshi-ml-and-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"2","updated":"2024-05-22T16:03:20.604+05:30"}
+{"dg-publish":true,"permalink":"/priyadarshi-ml-and-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry"],"noteIcon":"2","updated":"2024-05-29T14:38:34.950+05:30"}
 ---
 
 
@@ -33,12 +33,16 @@ Here's a list  of all the resources that the website has to offer :
 
 - 📑 [[Table Of Contents\|Table Of Contents]]
 
+These are a list of topics which I have *yet* to learn :
+
+- 📖 [[To Learn...\|To Learn...]]
+
 ## Recently Updated Notes
 
+- [[To Learn...\|To Learn...]]
 - [[Ensemble Learning\|Ensemble Learning]]
 - [[Tensorflow\|Tensorflow]]
 - [[FAQ\|FAQ]]
 - [[NumPy\|NumPy]]
-- [[Interview Questions\|Interview Questions]]
 
 { .block-language-dataview}
