@@ -20,7 +20,7 @@
 | [[🤖 Deep Learning/Neural Style Transfer\|Neural Style Transfer]]                             | May 22, 2024 |
 | [[🤖 Deep Learning/NLP\|NLP]]                                                                 | May 22, 2024 |
 | [[🤖 Deep Learning/Object Detection and Tracking\|Object Detection and Tracking]]             | May 23, 2024 |
-| [[🤖 Deep Learning/Reinforcement Learning\|Reinforcement Learning]]                           | May 23, 2024 |
+| [[🤖 Deep Learning/Reinforcement Learning\|Reinforcement Learning]]                           | May 30, 2024 |
 | [[🤖 Deep Learning/Segmentation\|Segmentation]]                                               | May 28, 2024 |
 | [[🧑‍🏫 Traditional ML/Support Vector Machine (SVM)\|Support Vector Machine (SVM)]]           | May 23, 2024 |
 | [[🧑‍🏫 Traditional ML/Traditional Machine Learning\|Traditional Machine Learning]]           | May 30, 2024 |
