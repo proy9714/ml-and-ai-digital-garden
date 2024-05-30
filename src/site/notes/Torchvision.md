@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/torchvision/","noteIcon":"2","updated":"2024-05-22T13:59:22.665+05:30"}
+{"dg-publish":true,"permalink":"/torchvision/","noteIcon":"2","updated":"2024-05-30T14:01:36.475+05:30"}
 ---
 
 
@@ -11,4 +11,4 @@ Torchvision is a library in the [[PyTorch\|PyTorch]] ecosystem that helps with [
 
 ## Quick Introduction to Torchvision
 
-![**Torchvision in 5 minutes**](https://www.youtube.com/watch?v=CU6bTEClzlw&t=228s)
+<iframe title="Torchvision in 5 minutes" src="https://www.youtube.com/embed/CU6bTEClzlw?start=228&amp;feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
