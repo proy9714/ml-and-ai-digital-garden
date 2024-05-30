@@ -50,4 +50,4 @@
 - [[Machine Learning Fundamentals/Optimizers\|Optimizers]]
 - [[Machine Learning Fundamentals/Normalization\|Normalization]]
 - [[Machine Learning Fundamentals/Evaluating Machine Learning Models\|Evaluating Machine Learning Models]]
-- [[Machine Learning Fundamentals/GPU\|Why GPUs?]]
+- [[Tools/GPU\|Why GPUs?]]
