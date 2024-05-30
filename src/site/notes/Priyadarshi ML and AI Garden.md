@@ -39,10 +39,10 @@ These are a list of topics which I have *yet* to learn :
 
 ## Recently Updated Notes
 
+- [[Torchvision\|Torchvision]]
 - [[To Learn...\|To Learn...]]
 - [[Ensemble Learning\|Ensemble Learning]]
 - [[Tensorflow\|Tensorflow]]
 - [[FAQ\|FAQ]]
-- [[NumPy\|NumPy]]
 
 { .block-language-dataview}
