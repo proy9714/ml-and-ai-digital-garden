@@ -25,7 +25,7 @@
 | [[Segmentation\|Segmentation]]                                             | May 28, 2024 |
 | [[Traditional Machine Learning\|Traditional Machine Learning]]             | May 22, 2024 |
 | [[Regularization\|Regularization]]                                         | May 23, 2024 |
-| [[To Learn...\|To Learn...]]                                               | May 29, 2024 |
+| [[To Learn...\|To Learn...]]                                               | May 30, 2024 |
 | [[Bias vs Variance\|Bias vs Variance]]                                     | May 29, 2024 |
 | [[Computer Vision\|Computer Vision]]                                       | May 22, 2024 |
 | [[Convolutional Neural Network (CNN)\|Convolutional Neural Network (CNN)]] | May 24, 2024 |
