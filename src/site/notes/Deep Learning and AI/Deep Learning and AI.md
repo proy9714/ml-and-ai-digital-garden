@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/WxJLwDBAXDsW1fqZ3v/giphy.gif" width="100%"/>
 </div>
 
-## [[Mathematics/Mathematical Foundations\|Mathematical Foundations]]
+## [[🔢 Mathematics/Mathematical Foundations\|Mathematical Foundations]]
 
 ## [[Machine Learning Fundamentals/Machine Learning Fundamentals\|Machine Learning Fundamentals]]
 
