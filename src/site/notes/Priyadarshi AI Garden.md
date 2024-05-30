@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/priyadarshi-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry"],"noteIcon":"2","updated":"2024-05-30T16:54:05.079+05:30"}
+{"dg-publish":true,"permalink":"/priyadarshi-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry","gardenEntry"],"noteIcon":"2","updated":"2024-05-30T16:54:05.079+05:30"}
 ---
 
 
@@ -39,10 +39,10 @@ These are a list of topics which I have *yet* to learn :
 
 ## Recently Updated Notes
 
+- [[🤖 Deep Learning/Reinforcement Learning\|Reinforcement Learning]]
 - [[🧰 Tools/Machine Learning Toolkit\|Machine Learning Toolkit]]
 - [[🧒 ML Fundamentals/Machine Learning Fundamentals\|Machine Learning Fundamentals]]
 - [[🧑‍🏫 Traditional ML/Traditional Machine Learning\|Traditional Machine Learning]]
 - [[🤖 Deep Learning/Deep Learning\|Deep Learning]]
-- [[🔢 Mathematics/Mathematical Foundations\|Mathematical Foundations]]
 
 { .block-language-dataview}
