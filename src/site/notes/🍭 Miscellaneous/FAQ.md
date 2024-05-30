@@ -34,8 +34,8 @@
 
 
 
-> [!faq]- What is [[🧒 Machine Learning Fundamentals/Cross Validation\|Cross Validation]]?
-> Cross-validation is a technique used in machine learning to [[🧒 Machine Learning Fundamentals/Evaluating Machine Learning Models\|evaluate]] the performance of a model and estimate its generalization ability. It helps assess how well the model will perform on unseen data.
+> [!faq]- What is [[🧒 ML Fundamentals/Cross Validation\|Cross Validation]]?
+> Cross-validation is a technique used in machine learning to [[🧒 ML Fundamentals/Evaluating Machine Learning Models\|evaluate]] the performance of a model and estimate its generalization ability. It helps assess how well the model will perform on unseen data.
 > In cross-validation, the available data is divided into two parts: the **training set** and the **validation set**. The model is trained on the training set and then evaluated on the validation set. This process is repeated multiple times, with different subsets of data used for training and validation each time.
 > 
 > The most common form of cross-validation is called **k-fold cross-validation**. In k-fold cross-validation, the data is divided into k equally sized subsets or "folds." The model is trained on k-1 folds and validated on the remaining fold. This process is repeated k times, each time using a different fold as the validation set. The performance results from each fold are averaged to obtain an overall performance estimate of the model.
@@ -95,11 +95,11 @@
 > [!faq]- What Are Some Ways We Can Reduce Overfitting?
 > Overfitting is a common challenge in machine learning where a model performs exceptionally well on the training data but fails to generalize to new, unseen data. To reduce overfitting, several techniques can be applied:
 > 1. **Increase Training Data**: Obtaining more training data can help the model capture a broader representation of the underlying patterns in the data, reducing the chances of overfitting.
-> 2. **[[🧒 Machine Learning Fundamentals/Cross Validation\|Cross Validation]]** : Using cross-validation techniques, such as k-fold cross-validation, helps evaluate the model's performance on multiple subsets of data, providing a more reliable estimate of its generalization ability.
+> 2. **[[🧒 ML Fundamentals/Cross Validation\|Cross Validation]]** : Using cross-validation techniques, such as k-fold cross-validation, helps evaluate the model's performance on multiple subsets of data, providing a more reliable estimate of its generalization ability.
 > 3. **Feature Selection**: Careful selection of relevant features and removing irrelevant or noisy features can help reduce overfitting. It's important to focus on the most informative features that contribute to the predictive power of the model.
-> 4. **[[🧒 Machine Learning Fundamentals/Regularization\|Regularization]]**: Regularization techniques add a penalty term to the model's objective function, discouraging overly complex or extreme parameter values. Common regularization techniques include L1 regularization (Lasso) and L2 regularization (Ridge), which help constrain the model's parameters and prevent overfitting.
+> 4. **[[🧒 ML Fundamentals/Regularization\|Regularization]]**: Regularization techniques add a penalty term to the model's objective function, discouraging overly complex or extreme parameter values. Common regularization techniques include L1 regularization (Lasso) and L2 regularization (Ridge), which help constrain the model's parameters and prevent overfitting.
 > 5. **Early Stopping**: Monitoring the model's performance on a validation set during training and stopping the training process when the performance starts to degrade can prevent overfitting. This approach prevents the model from continuing to improve on the training data while losing its ability to generalize.
-> 6. **[[🧒 Machine Learning Fundamentals/Ensemble Learning\|Ensemble Learning]]**: Ensemble methods combine multiple models to make predictions. Techniques like bagging (bootstrap aggregating) and boosting can reduce overfitting by aggregating the predictions of multiple models, thereby reducing the impact of individual models that may be prone to overfitting.
+> 6. **[[🧒 ML Fundamentals/Ensemble Learning\|Ensemble Learning]]**: Ensemble methods combine multiple models to make predictions. Techniques like bagging (bootstrap aggregating) and boosting can reduce overfitting by aggregating the predictions of multiple models, thereby reducing the impact of individual models that may be prone to overfitting.
 > 7. **Simplifying the Model**: Reducing the complexity of the model, such as decreasing the number of layers or nodes in a neural network, or reducing the maximum depth of a decision tree, can help prevent overfitting. Simplifying the model reduces its capacity to memorize noise or irrelevant patterns in the data.
 > 8. **Dropout**: Dropout is a regularization technique commonly used in neural networks. It randomly drops out a fraction of the nodes or connections during training, forcing the network to learn more robust and generalizable features.
 > 
