@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/priyadarshi-ml-and-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"2","updated":"2024-05-29T14:38:34.950+05:30"}
+{"dg-publish":true,"permalink":"/priyadarshi-ml-and-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"2","updated":"2024-05-29T14:38:34.950+05:30"}
 ---
 
 
@@ -27,7 +27,7 @@ Let's learn, laugh, and unleash the power of AI together 😀!
 
 If you are an absolute beginner 👼start here:
 
-- 🤖 [[Deep Learning and AI/Deep Learning and AI\|Deep Learning and AI]]
+- 🤖 [[🤖 Deep Learning and AI/Deep Learning and AI\|Deep Learning and AI]]
 
 Here's a list  of all the resources that the website has to offer :
 
@@ -35,14 +35,14 @@ Here's a list  of all the resources that the website has to offer :
 
 These are a list of topics which I have *yet* to learn :
 
-- 📖 [[Miscellaneous/To Learn...\|To Learn...]]
+- 📖 [[🍭 Miscellaneous/To Learn...\|To Learn...]]
 
 ## Recently Updated Notes
 
 - [[Table Of Contents\|Table Of Contents]]
-- [[Machine Learning Fundamentals/Machine Learning Fundamentals\|Machine Learning Fundamentals]]
-- [[Machine Learning Fundamentals/Encoding Data\|Encoding Data]]
-- [[Miscellaneous/To Learn...\|To Learn...]]
-- [[Tools/Torchvision\|Torchvision]]
+- [[🧒 Machine Learning Fundamentals/Machine Learning Fundamentals\|Machine Learning Fundamentals]]
+- [[🧒 Machine Learning Fundamentals/Encoding Data\|Encoding Data]]
+- [[🍭 Miscellaneous/To Learn...\|To Learn...]]
+- [[🧰 Tools/Torchvision\|Torchvision]]
 
 { .block-language-dataview}
