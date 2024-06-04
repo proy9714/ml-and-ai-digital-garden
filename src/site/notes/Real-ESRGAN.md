@@ -1,0 +1,22 @@
+---
+{"dg-publish":true,"permalink":"/real-esrgan/","noteIcon":"2","updated":"2024-06-04T17:40:27.161+05:30"}
+---
+
+
+## Github : https://github.com/xinntao/Real-ESRGAN
+
+---
+
+## Working with ESRGAN
+
+<iframe title="Upscale your Images using DEEP SUPER RESOLUTION with ESRGAN" src="https://www.youtube.com/embed/67hqsP7fhvQ?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+## Notes
+
+> [!tip] Works exceptionally well!
+
+Although I have not tried tweaking all the settings. But the default settings were enough to **impress me**!
+
+### Sample Output:
+
+![WhatsApp Image 2024-06-04 at 17.31.32_b5015f8b.jpg](/img/user/%F0%9F%93%81%20Assets/WhatsApp%20Image%202024-06-04%20at%2017.31.32_b5015f8b.jpg)
