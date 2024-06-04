@@ -71,5 +71,6 @@
 | [[🔢 Mathematics/Linear Algebra\|Linear Algebra]]                                             | May 30, 2024  |
 | [[Tensorflow Agents\|Tensorflow Agents]]                                                      | June 04, 2024 |
 | [[🍭 Miscellaneous/Image Upscaling\|Image Upscaling]]                                         | June 04, 2024 |
+| [[Real-ESRGAN\|Real-ESRGAN]]                                                                  | June 04, 2024 |
 
 { .block-language-dataview}
