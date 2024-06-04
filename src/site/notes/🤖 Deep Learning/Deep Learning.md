@@ -19,8 +19,8 @@
 
 ## Topics
 
-- [[🤖 Deep Learning/Medical Image Segmentation\|Medical Image Segmentation]]
 - [[🤖 Deep Learning/Meta Learning\|Meta Learning]]
+- [[🤖 Deep Learning/Medical Image Segmentation\|Medical Image Segmentation]]
 - [[🤖 Deep Learning/NLP\|NLP]]
 - [[🤖 Deep Learning/Neural Style Transfer\|Neural Style Transfer]]
 - [[🤖 Deep Learning/Object Detection and Tracking\|Object Detection and Tracking]]
