@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deep-learning/reinforcement-learning/","noteIcon":"2","updated":"2024-05-30T17:00:56.152+05:30"}
+{"dg-publish":true,"permalink":"/deep-learning/reinforcement-learning/","tags":["agents"],"noteIcon":"2","updated":"2024-06-04T12:54:31.991+05:30"}
 ---
 
 
@@ -17,3 +17,9 @@
 > [!info] An in-depth playlist from the ever amazing Code-Emporium…
 
 <iframe src="https://www.youtube.com/embed/lfPEJPHUllg?list=PLTl9hO2Oobd9kS--NgVz0EPNyEmygV1Ha" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+
+---
+
+## Related Topics
+
+- [[Tensorflow Agents\|Tensorflow Agents]]
