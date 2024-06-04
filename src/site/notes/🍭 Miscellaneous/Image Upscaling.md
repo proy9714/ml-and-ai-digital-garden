@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/miscellaneous/image-upscaling/","tags":["images-processing"],"noteIcon":"2","updated":"2024-06-04T16:52:41.774+05:30"}
+{"dg-publish":true,"permalink":"/miscellaneous/image-upscaling/","tags":["images-processing"],"noteIcon":"2","updated":"2024-06-04T17:11:47.777+05:30"}
 ---
 
 
@@ -17,4 +17,5 @@ The task allotted to me was to scale an image up from (180px * 180px) to (1000px
 - [[OpenCV\|OpenCV]]
 - ImageKit
 - pgmagick
-- https://github.com/xinntao/Real-ESRGAN
+- [Super Resolution Zoo](https://github.com/WolframRhodium/Super-Resolution-Zoo)
+- [[Real-ESRGAN\|Real-ESRGAN]]
