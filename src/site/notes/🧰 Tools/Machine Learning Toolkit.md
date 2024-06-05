@@ -22,6 +22,7 @@
 - [[🧰 Tools/PyTorch Lightning\|PyTorch Lightning]]
 - [[🧰 Tools/Stable Diffusion\|Stable Diffusion]]
 - [[🧰 Tools/GPU\|GPU]]
+- [[🧰 Tools/Tensorflow Agents\|Tensorflow Agents]]
 - [[🧰 Tools/Firebase ML Kit\|Firebase ML Kit]]
 - [[🧰 Tools/Google Mediapipe\|Google Mediapipe]]
 - [[🧰 Tools/OpenCV\|OpenCV]]
