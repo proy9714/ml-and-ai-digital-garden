@@ -6,5 +6,5 @@
 - [[Graph Neural Networks\|Graph Neural Networks]]
 - [[MXNET\|MXNET]]
 - [[JAX\|JAX]]
-- [[Firebase ML Kit\|Firebase ML Kit]]
+- [[🧰 Tools/Firebase ML Kit\|Firebase ML Kit]]
 - [[Tensorflow Agents\|Tensorflow Agents]]
