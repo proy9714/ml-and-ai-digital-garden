@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tools/torchvision/","noteIcon":"2","updated":"2024-05-30T14:01:36.475+05:30"}
+{"dg-publish":true,"permalink":"/tools/torchvision/","noteIcon":"2","updated":"2024-06-05T17:11:52.774+05:30"}
 ---
 
 
