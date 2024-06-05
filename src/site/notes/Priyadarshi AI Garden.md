@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/priyadarshi-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry"],"noteIcon":"2","updated":"2024-05-30T16:54:05.079+05:30"}
+{"dg-publish":true,"permalink":"/priyadarshi-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry","gardenEntry"],"noteIcon":"2","updated":"2024-05-30T16:54:05.079+05:30"}
 ---
 
 
@@ -39,10 +39,10 @@ These are a list of topics which I have *yet* to learn :
 
 ## Recently Updated Notes
 
+- [[🧰 Tools/Google Mediapipe\|Google Mediapipe]]
+- [[🧰 Tools/OpenCV\|OpenCV]]
+- [[Firebase ML Kit\|Firebase ML Kit]]
 - [[Real-ESRGAN\|Real-ESRGAN]]
 - [[🍭 Miscellaneous/Image Upscaling\|Image Upscaling]]
-- [[Tensorflow Agents\|Tensorflow Agents]]
-- [[🤖 Deep Learning/Reinforcement Learning\|Reinforcement Learning]]
-- [[🍭 Miscellaneous/To Learn...\|To Learn...]]
 
 { .block-language-dataview}
