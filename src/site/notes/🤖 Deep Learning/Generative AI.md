@@ -5,6 +5,6 @@
 
 ## Topics
 
-- ### [[🤖 Deep Learning/GAN\|GAN]]
-- ### [[🤖 Deep Learning/Diffusion Models\|Diffusion Models]]
+- ### [[👀 Computer Vision/GAN\|GAN]]
+- ### [[👀 Computer Vision/Diffusion Models\|Diffusion Models]]
 - ### [[🤖 Deep Learning/Transformers\|Transformers]]
