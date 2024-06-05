@@ -14,7 +14,7 @@ The task allotted to me was to scale an image up from (180px * 180px) to (1000px
 ## Resources and Options
 
 - [[PIL\|PIL]]
-- [[OpenCV\|OpenCV]]
+- [[🧰 Tools/OpenCV\|OpenCV]]
 - ImageKit
 - pgmagick
 - [Super Resolution Zoo](https://github.com/WolframRhodium/Super-Resolution-Zoo)
