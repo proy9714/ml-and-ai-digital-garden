@@ -39,10 +39,10 @@ These are a list of topics which I have *yet* to learn :
 
 ## Recently Updated Notes
 
+- [[🧰 Tools/PyTorch\|PyTorch]]
+- [[🍭 Miscellaneous/Courses\|Courses]]
 - [[🧰 Tools/Tensorflow Agents\|Tensorflow Agents]]
 - [[🧰 Tools/Firebase ML Kit\|Firebase ML Kit]]
 - [[👀 Computer Vision/Computer Vision\|Computer Vision]]
-- [[👀 Computer Vision/Image Similarity\|Image Similarity]]
-- [[🧰 Tools/Google Mediapipe\|Google Mediapipe]]
 
 { .block-language-dataview}
