@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/real-esrgan/","noteIcon":"2","updated":"2024-06-04T17:40:27.161+05:30"}
+{"dg-publish":true,"permalink":"/real-esrgan/","noteIcon":"2","updated":"2024-06-05T14:08:13.541+05:30"}
 ---
 
 
@@ -16,6 +16,8 @@
 > [!tip] Works exceptionally well!
 
 Although I have not tried tweaking all the settings. But the default settings were enough to **impress me**!
+
+> [!info] Highly recommend using Colab to try this. Without GPU a single image took about 20mins!
 
 ### Sample Output:
 
