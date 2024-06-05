@@ -72,5 +72,8 @@
 | [[Real-ESRGAN\|Real-ESRGAN]]                                                                  | June 05, 2024 |
 | [[Tensorflow Agents\|Tensorflow Agents]]                                                      | June 04, 2024 |
 | [[🍭 Miscellaneous/Image Upscaling\|Image Upscaling]]                                         | June 04, 2024 |
+| [[🧰 Tools/Google Mediapipe\|Google Mediapipe]]                                               | June 05, 2024 |
+| [[🧰 Tools/OpenCV\|OpenCV]]                                                                   | June 05, 2024 |
+| [[Firebase ML Kit\|Firebase ML Kit]]                                                          | June 05, 2024 |
 
 { .block-language-dataview}
