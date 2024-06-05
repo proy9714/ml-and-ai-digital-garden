@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/tools/google-mediapipe/","tags":["computer-vision"],"noteIcon":"2","updated":"2024-06-05T17:08:14.513+05:30"}
+{"dg-publish":true,"permalink":"/tools/google-mediapipe/","tags":["computer-vision"],"noteIcon":"2","updated":"2024-06-05T17:15:37.551+05:30"}
 ---
 
 
-## [Google Mediapipe](https://ai.google.dev/edge/mediapipe/solutions/)
+Cross-platform, customizable ML solutions for live and streaming media : [Google Mediapipe](https://ai.google.dev/edge/mediapipe/solutions/)
 
 ---
 
