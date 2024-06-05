@@ -14,23 +14,23 @@
 | [[🤖 Deep Learning/Meta Learning\|Meta Learning]]                                             | May 22, 2024  |
 | [[🤖 Deep Learning/NLP\|NLP]]                                                                 | May 22, 2024  |
 | [[🤖 Deep Learning/Reinforcement Learning\|Reinforcement Learning]]                           | June 04, 2024 |
-| [[🧑‍🏫 Traditional ML/Traditional Machine Learning\|Traditional Machine Learning]]           | May 30, 2024  |
 | [[🧑‍🏫 Traditional ML/Support Vector Machine (SVM)\|Support Vector Machine (SVM)]]           | May 23, 2024  |
+| [[🧑‍🏫 Traditional ML/Traditional Machine Learning\|Traditional Machine Learning]]           | May 30, 2024  |
 | [[🧒 ML Fundamentals/Ensemble Learning\|Ensemble Learning]]                                   | May 29, 2024  |
 | [[🧒 ML Fundamentals/Normalization\|Normalization]]                                           | May 23, 2024  |
 | [[🧒 ML Fundamentals/Optimizers\|Optimizers]]                                                 | May 22, 2024  |
 | [[🧰 Tools/Machine Learning Toolkit\|Machine Learning Toolkit]]                               | May 30, 2024  |
 | [[🧰 Tools/Matplotlib\|Matplotlib]]                                                           | May 24, 2024  |
 | [[🧰 Tools/NumPy\|NumPy]]                                                                     | May 29, 2024  |
-| [[🧰 Tools/PyTorch\|PyTorch]]                                                                 | May 28, 2024  |
+| [[🧰 Tools/PyTorch\|PyTorch]]                                                                 | June 05, 2024 |
 | [[🧰 Tools/Tensorflow\|Tensorflow]]                                                           | May 29, 2024  |
 | [[🍭 Miscellaneous/To Learn...\|To Learn...]]                                                 | June 04, 2024 |
 | [[🧒 ML Fundamentals/Regularization\|Regularization]]                                         | May 23, 2024  |
 | [[Getting Started\|Getting Started]]                                                          | May 30, 2024  |
 | [[🍭 Miscellaneous/Interview Questions\|Interview Questions]]                                 | May 29, 2024  |
 | [[🍭 Miscellaneous/Resources\|Resources]]                                                     | May 28, 2024  |
-| [[👀 Computer Vision/Diffusion Models\|Diffusion Models]]                                     | May 28, 2024  |
 | [[👀 Computer Vision/Convolutional Neural Network (CNN)\|Convolutional Neural Network (CNN)]] | May 24, 2024  |
+| [[👀 Computer Vision/Diffusion Models\|Diffusion Models]]                                     | May 28, 2024  |
 | [[👀 Computer Vision/GAN\|GAN]]                                                               | May 22, 2024  |
 | [[🔢 Mathematics/Mathematical Foundations\|Mathematical Foundations]]                         | May 30, 2024  |
 | [[🤖 Deep Learning/Autoencoders\|Autoencoders]]                                               | May 23, 2024  |
@@ -49,7 +49,7 @@
 | [[🧰 Tools/Google Colab\|Google Colab]]                                                       | May 29, 2024  |
 | [[🧰 Tools/Langchain\|Langchain]]                                                             | May 23, 2024  |
 | [[🧰 Tools/Torchvision\|Torchvision]]                                                         | June 05, 2024 |
-| [[🍭 Miscellaneous/Courses\|Courses]]                                                         | May 28, 2024  |
+| [[🍭 Miscellaneous/Courses\|Courses]]                                                         | June 05, 2024 |
 | [[🧰 Tools/Scikit-learn\|Scikit-learn]]                                                       | May 28, 2024  |
 | [[Table Of Contents\|Table Of Contents]]                                                      | May 30, 2024  |
 | [[🔢 Mathematics/Gradients\|Gradients]]                                                       | May 23, 2024  |
@@ -68,8 +68,8 @@
 | [[🧰 Tools/GPU\|GPU]]                                                                         | May 28, 2024  |
 | [[🔢 Mathematics/Linear Algebra\|Linear Algebra]]                                             | May 30, 2024  |
 | [[🧒 ML Fundamentals/Encoding Data\|Encoding Data]]                                           | May 30, 2024  |
-| [[👀 Computer Vision/Real-ESRGAN\|Real-ESRGAN]]                                               | June 05, 2024 |
 | [[👀 Computer Vision/Image Upscaling\|Image Upscaling]]                                       | June 04, 2024 |
+| [[👀 Computer Vision/Real-ESRGAN\|Real-ESRGAN]]                                               | June 05, 2024 |
 | [[🧰 Tools/Tensorflow Agents\|Tensorflow Agents]]                                             | June 05, 2024 |
 | [[👀 Computer Vision/Computer Vision\|Computer Vision]]                                       | June 05, 2024 |
 | [[👀 Computer Vision/Image Similarity\|Image Similarity]]                                     | June 05, 2024 |
