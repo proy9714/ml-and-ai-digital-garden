@@ -22,5 +22,7 @@
 - [[🧰 Tools/PyTorch Lightning\|PyTorch Lightning]]
 - [[🧰 Tools/Stable Diffusion\|Stable Diffusion]]
 - [[🧰 Tools/GPU\|GPU]]
+- [[🧰 Tools/Google Mediapipe\|Google Mediapipe]]
+- [[🧰 Tools/OpenCV\|OpenCV]]
 
 { .block-language-dataview}
