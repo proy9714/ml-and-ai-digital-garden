@@ -26,6 +26,7 @@
 - [[👀 Computer Vision/Convolutional Neural Network (CNN)\|Convolutional Neural Network (CNN)]]
 - [[👀 Computer Vision/Diffusion Models\|Diffusion Models]]
 - [[👀 Computer Vision/GAN\|GAN]]
+- [[👀 Computer Vision/Image Upscaling\|Image Upscaling]]
 - [[👀 Computer Vision/Real-ESRGAN\|Real-ESRGAN]]
 - [[👀 Computer Vision/Image Similarity\|Image Similarity]]
 
