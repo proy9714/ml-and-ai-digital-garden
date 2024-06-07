@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/priyadarshi-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry"],"noteIcon":"2","updated":"2024-05-30T16:54:05.079+05:30"}
+{"dg-publish":true,"permalink":"/priyadarshi-ai-garden/","tags":["home","guide","start","index","digital-garden","gardenEntry","gardenEntry"],"noteIcon":"2","updated":"2024-05-30T16:54:05.079+05:30"}
 ---
 
 
@@ -39,10 +39,10 @@ These are a list of topics which I have *yet* to learn :
 
 ## Recently Updated Notes
 
+- [[👀 Computer Vision/Image Similarity\|Image Similarity]]
+- [[👀 Computer Vision/Image Upscaling\|Image Upscaling]]
 - [[👀 Computer Vision/DeepFace\|DeepFace]]
 - [[👀 Computer Vision/Real-ESRGAN\|Real-ESRGAN]]
 - [[🧰 Tools/Github Repos\|Github Repos]]
-- [[👀 Computer Vision/Image Similarity\|Image Similarity]]
-- [[🍭 Miscellaneous/To Learn...\|To Learn...]]
 
 { .block-language-dataview}
