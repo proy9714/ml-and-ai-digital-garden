@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-vision/deep-face/","tags":["computer-vision","image-similarity","face-recognition","face-identification","github-repo"],"noteIcon":"2","updated":"2024-06-07T14:30:09.654+05:30"}
+{"dg-publish":true,"permalink":"/computer-vision/deep-face/","tags":["computer-vision","image-similarity","face-recognition","face-identification","github-repo"],"noteIcon":"2","updated":"2024-06-07T14:34:07.060+05:30"}
 ---
 
 
