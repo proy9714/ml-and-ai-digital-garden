@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-vision/real-esrgan/","tags":["computer-vision","github-repo"],"noteIcon":"2","updated":"2024-06-05T17:10:24.232+05:30"}
+{"dg-publish":true,"permalink":"/computer-vision/real-esrgan/","tags":["computer-vision","github-repo"],"noteIcon":"2","updated":"2024-06-07T14:29:32.516+05:30"}
 ---
 
 
