@@ -68,7 +68,7 @@
 | [[🧰 Tools/GPU\|GPU]]                                                                         | May 28, 2024  |
 | [[🔢 Mathematics/Linear Algebra\|Linear Algebra]]                                             | May 30, 2024  |
 | [[🧒 ML Fundamentals/Encoding Data\|Encoding Data]]                                           | May 30, 2024  |
-| [[👀 Computer Vision/Image Upscaling\|Image Upscaling]]                                       | June 04, 2024 |
+| [[👀 Computer Vision/Image Upscaling\|Image Upscaling]]                                       | June 07, 2024 |
 | [[👀 Computer Vision/Real-ESRGAN\|Real-ESRGAN]]                                               | June 07, 2024 |
 | [[🧰 Tools/Tensorflow Agents\|Tensorflow Agents]]                                             | June 05, 2024 |
 | [[👀 Computer Vision/Computer Vision\|Computer Vision]]                                       | June 05, 2024 |
