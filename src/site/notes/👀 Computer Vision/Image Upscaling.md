@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-vision/image-upscaling/","tags":["images-processing"],"noteIcon":"2","updated":"2024-06-04T17:11:47.777+05:30"}
+{"dg-publish":true,"permalink":"/computer-vision/image-upscaling/","tags":["images-processing","image-upscaling"],"noteIcon":"2","updated":"2024-06-07T14:31:05.721+05:30"}
 ---
 
 
