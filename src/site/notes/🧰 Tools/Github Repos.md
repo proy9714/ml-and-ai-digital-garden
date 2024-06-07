@@ -3,9 +3,9 @@
 ---
 
 
-| File                                               | Description                                                                     |
-| -------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [[👀 Computer Vision/Real-ESRGAN\|Real-ESRGAN]] | Image upscaling and super-resolution                                            |
-| [[👀 Computer Vision/DeepFace\|DeepFace]]       | A Lightweight Face Recognition and Facial Attribute Analysis Library for Python |
+| File                                               | Description                                                       |
+| -------------------------------------------------- | ----------------------------------------------------------------- |
+| [[👀 Computer Vision/Real-ESRGAN\|Real-ESRGAN]] | Image upscaling and super-resolution                              |
+| [[👀 Computer Vision/DeepFace\|DeepFace]]       | Face Recognition and Facial Attribute Analysis Library for Python |
 
 { .block-language-dataview}
