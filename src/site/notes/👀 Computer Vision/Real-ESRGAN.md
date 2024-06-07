@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-vision/real-esrgan/","tags":["computer-vision","github-repo"],"noteIcon":"2","updated":"2024-06-07T14:29:32.516+05:30"}
+{"dg-publish":true,"permalink":"/computer-vision/real-esrgan/","tags":["computer-vision","github-repo"],"noteIcon":"2","updated":"2024-06-07T14:32:22.392+05:30"}
 ---
 
 
@@ -7,17 +7,18 @@
 
 ---
 
-## Working with ESRGAN
+## How to Use ESRGAN
 
 <iframe title="Upscale your Images using DEEP SUPER RESOLUTION with ESRGAN" src="https://www.youtube.com/embed/67hqsP7fhvQ?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+
+---
 
 ## Notes
 
 > [!tip] Works exceptionally well!
+> Highly recommend using Colab to try this. Without GPU a single image took about 20mins!
 
 Although I have not tried tweaking all the settings. But the default settings were enough to **impress me**!
-
-> [!info] Highly recommend using Colab to try this. Without GPU a single image took about 20mins!
 
 ### Sample Output:
 
