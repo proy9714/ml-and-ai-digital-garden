@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/computer-vision/image-similarity/","tags":["computer-vision"],"noteIcon":"2","updated":"2024-06-07T14:25:05.774+05:30"}
+{"dg-publish":true,"permalink":"/computer-vision/image-similarity/","tags":["computer-vision","image-similarity","images-processing"],"noteIcon":"2","updated":"2024-06-07T14:31:30.403+05:30"}
 ---
 
 
