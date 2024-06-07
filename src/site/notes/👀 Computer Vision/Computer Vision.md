@@ -29,6 +29,8 @@
 - [[👀 Computer Vision/Image Upscaling\|Image Upscaling]]
 - [[👀 Computer Vision/Real-ESRGAN\|Real-ESRGAN]]
 - [[👀 Computer Vision/Image Similarity\|Image Similarity]]
+- [[👀 Computer Vision/Reverse Image Search Engines\|Reverse Image Search Engines]]
+- [[👀 Computer Vision/DeepFace\|DeepFace]]
 
 { .block-language-dataview}
 
